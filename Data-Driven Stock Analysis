@@ -1,0 +1,2178 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://docs.google.com/document/u/0/d/1AYMyK5XXRNyrIoimt4zjSEvVyaMQPXCNnOPwVsgo2IA/mobilebasic
+Subject: Data-Driven Stock Analysis
+Date: Mon, 22 Dec 2025 18:40:41 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--N03U5v5XEKmojsinQFxdL16eIf5GxsBNcgR8URQpvW----"
+
+
+------MultipartBoundary--N03U5v5XEKmojsinQFxdL16eIf5GxsBNcgR8URQpvW----
+Content-Type: text/html
+Content-ID: <frame-265DA6AC1351C3D46BE197B8312E5419@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://docs.google.com/document/u/0/d/1AYMyK5XXRNyrIoimt4zjSEvVyaMQPXCNnOPwVsgo2IA/mobilebasic
+
+<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-e0006671-44ed-4c82-92c1-bfe94522d11a@mhtml.blink" /><link rel="stylesheet" type="text/css" href="cid:css-82a73fd2-78ae-4a04-8efb-c40a082d75e0@mhtml.blink" /><link rel="stylesheet" type="text/css" href="cid:css-026c43ce-55d7-47c6-95b9-2605d5613bf6@mhtml.blink" /><title>Data-Driven Stock Analysis</title><link rel="shortcut icon" href="https://ssl.gstatic.com/docs/documents/images/kix-favicon-2023q4.ico"><meta property="og:title" content="Data-Driven Stock Analysis"><meta property="og:type" content="article"><meta property="og:site_name" content="Google Docs"><meta property="og:url" content="https://docs.google.com/document/u/0/d/1AYMyK5XXRNyrIoimt4zjSEvVyaMQPXCNnOPwVsgo2IA/mobilebasic?usp=embed_facebook"><meta property="og:image" content="https://lh7-us.googleusercontent.com/docs/AHkbwyIS3gGDS7EL5ORQUxS5uZ1jvqo8CWJyjWmsBHSSu0tpGAdoMkuXzukEa9uJN1KoPa0_7EASGsCFEGgblPdDmb4P3YrEdRV-tqIr7K0BuvD4nqZ5SSMp=w1200-h630-p"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:description" content="Project Title Data-Driven Stock Analysis: Organizing, Cleaning, and Visualizing Market Trends Skills take away From This Project Pandas, Python, Power BI, Streamlit, SQL,Statistics ,Data Organizing, Cleaning, and Visualizing. Domain Finance / Data Analytics Problem Statement: The Stoc..."><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=0"><meta name="referrer" content="strict-origin-when-cross-origin"></head><body jsaction="u0pjoe:.CLIENT"><div id="docs-ml-header-id" class="docs-ml-header"><span class="docs-ml-header-item docs-ml-header-drive-link"><div id="docs-ml-header-drive-link-aria-label" style="display:none;">Go to Drive</div><a href="https://drive.google.com/u/0?usp=docs_web" aria-labelledby="docs-ml-header-drive-link-aria-label" role="button"><div class="docs-ml-header-icon-container"><div class="docs-ml-icon docs-ml-header-icon docs-ml-arrow-back-dir"><div class="docs-ml-img-container docs-ml-img docs-ml-arrow-back-icon"></div></div></div></a></span><span class="docs-ml-header-item docs-ml-header-document-title"><div class="docs-ml-header-document-title-text">Data-Driven Stock Analysis</div></span></div><div class="app-container"><div class="doc-container"><div class="doc"><div class="doc-content" style="background-color:#ffffff;max-width:459pt;padding:0pt 58.5pt 58.5pt 94.5pt"><div><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><img></p></div><p style="padding-top:12pt;margin:0;color:#000000;padding-left:0;font-size:11pt;padding-bottom:12pt;line-height:1.15;font-family:&quot;Arial&quot;;orphans:2;widows:2;height:11pt;text-align:left;padding-right:0"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:5pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><table style="margin-left:36pt;border-spacing:0;border-collapse:collapse;margin-right:auto"><tbody><tr style="height:64.1pt"><td colspan="1" rowspan="1" style="border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:1pt;border-right-width:1pt;border-left-color:#000000;vertical-align:top;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;border-left-style:solid;border-bottom-width:1pt;width:135.8pt;border-top-color:#000000;border-bottom-style:solid"><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.0;text-align:left"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal">Project Title</span></p></td><td colspan="1" rowspan="1" style="border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:1pt;border-right-width:1pt;border-left-color:#000000;vertical-align:top;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;border-left-style:solid;border-bottom-width:1pt;width:285.8pt;border-top-color:#000000;border-bottom-style:solid"><p style="padding-top:12pt;margin:0;color:#000000;padding-left:0;font-size:11pt;padding-bottom:12pt;font-family:&quot;Arial&quot;;line-height:1.0;text-align:left;padding-right:0"><span style="background-color:#ffffff;font-size:12pt;font-family:&quot;Roboto&quot;;color:#0d0d0d;font-weight:700">Data-Driven Stock Analysis: Organizing, Cleaning, and Visualizing Market Trends</span></p></td></tr><tr style="height:0pt"><td colspan="1" rowspan="1" style="border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:1pt;border-right-width:1pt;border-left-color:#000000;vertical-align:top;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;border-left-style:solid;border-bottom-width:1pt;width:135.8pt;border-top-color:#000000;border-bottom-style:solid"><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.0;text-align:left"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal">Skills take away From This Project</span></p></td><td colspan="1" rowspan="1" style="border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:1pt;border-right-width:1pt;border-left-color:#000000;vertical-align:top;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;border-left-style:solid;border-bottom-width:1pt;width:285.8pt;border-top-color:#000000;border-bottom-style:solid"><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.0;text-align:left"><span style="background-color:#ffffff;font-size:12pt;font-family:&quot;Roboto&quot;;color:#0d0d0d;font-weight:700">Pandas, Python, Power BI, Streamlit, SQL,Statistics ,Data Organizing, Cleaning, and Visualizing.</span></p></td></tr><tr style="height:0pt"><td colspan="1" rowspan="1" style="border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:1pt;border-right-width:1pt;border-left-color:#000000;vertical-align:top;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;border-left-style:solid;border-bottom-width:1pt;width:135.8pt;border-top-color:#000000;border-bottom-style:solid"><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.0;text-align:left"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal">Domain</span></p></td><td colspan="1" rowspan="1" style="border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:1pt;border-right-width:1pt;border-left-color:#000000;vertical-align:top;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;border-left-style:solid;border-bottom-width:1pt;width:285.8pt;border-top-color:#000000;border-bottom-style:solid"><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.0;text-align:left"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal">Finance / Data Analytics</span></p></td></tr></tbody></table><h3 id="h.dg45ga16ik17" style="padding-top:14pt;margin:0;color:#434343;padding-left:0;font-size:14pt;padding-bottom:4pt;line-height:1.15;page-break-after:avoid;font-family:&quot;Arial&quot;;orphans:2;widows:2;text-align:left;padding-right:0"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:13pt;font-family:&quot;Arial&quot;;font-style:normal">Problem Statement:</span></h3><p style="padding-top:12pt;margin:0;color:#000000;padding-left:0;font-size:11pt;padding-bottom:12pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left;padding-right:0"><span>The </span><span style="font-weight:700">Stock Performance Dashboard</span><span>&nbsp;aims to provide a comprehensive visualization and analysis of the Nifty 50 stocks' performance over the past year. The project will analyze daily stock data, including open, close, high, low, and volume values. Clean and process the data, generate key performance insights, and visualize the top-performing stocks in terms of price changes, as well as average stock metrics. The solution will offer interactive dashboards using </span><span style="font-weight:700">Streamlit</span><span>&nbsp;and </span><span style="font-weight:700">Power BI</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp;to help Investors, analysts, and enthusiasts make informed decisions based on the stock performance trends.</span></p><hr><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><h3 id="h.4uy78sw7ngho" style="padding-top:14pt;margin:0;color:#434343;padding-left:0;font-size:14pt;padding-bottom:4pt;line-height:1.15;page-break-after:avoid;font-family:&quot;Arial&quot;;orphans:2;widows:2;text-align:left;padding-right:0"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:13pt;font-family:&quot;Arial&quot;;font-style:normal">Business Use Cases:</span></h3><ol class="lst-kix_gn3prfho60y2-0 start" start="1" style="padding:0;margin:0"><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Stock Performance Ranking</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">: Identify the top 10 best-performing stocks (green stocks) and the top 10 worst-performing stocks (red stocks) over the past year.</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Market Overview</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">: Provide an overall market summary with average stock performance and insights into the percentage of green vs red stocks.</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Investment Insights</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">: Help investors quickly identify which stocks showed consistent growth and which ones had significant declines.</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Decision Support</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">: Provide insights on average prices, volatility, and overall stock behavior, useful for both retail and institutional traders.</span></li></ol><hr><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><h3 id="h.q8041ljs8una" style="padding-top:14pt;margin:0;color:#434343;padding-left:0;font-size:14pt;padding-bottom:4pt;line-height:1.15;page-break-after:avoid;font-family:&quot;Arial&quot;;orphans:2;widows:2;height:14pt;text-align:left;padding-right:0"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:13pt;font-family:&quot;Arial&quot;;font-style:normal"></span></h3><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><h3 id="h.kj6racrxhret" style="padding-top:14pt;margin:0;color:#434343;padding-left:0;font-size:14pt;padding-bottom:4pt;line-height:1.15;page-break-after:avoid;font-family:&quot;Arial&quot;;orphans:2;widows:2;height:14pt;text-align:left;padding-right:0"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:13pt;font-family:&quot;Arial&quot;;font-style:normal"></span></h3><h3 id="h.t677m9mtxs93" style="padding-top:14pt;margin:0;color:#434343;padding-left:0;font-size:14pt;padding-bottom:4pt;line-height:1.15;page-break-after:avoid;font-family:&quot;Arial&quot;;orphans:2;widows:2;text-align:left;padding-right:0"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:13pt;font-family:&quot;Arial&quot;;font-style:normal">Approach:</span></h3><h4 id="h.v9y1hz7ifnzg" style="padding-top:12pt;margin:0;color:#666666;padding-left:0;font-size:12pt;padding-bottom:12pt;line-height:1.15;page-break-after:avoid;font-family:&quot;Arial&quot;;orphans:2;widows:2;text-align:left;padding-right:0"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Data Extraction and Transformation:</span></h4><ul class="lst-kix_a1j8b9wkut3k-0 start" style="padding:0;margin:0"><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><h4 id="h.v9y1hz7ifnzg-1" style="display:inline"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Data is provided in YAML format, organized by months.</span></h4></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><h4 id="h.v9y1hz7ifnzg-2" style="display:inline"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Within each month's folder, there are date-wise data entries.</span></h4></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><h4 id="h.v9y1hz7ifnzg-3" style="display:inline"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">The task is to extract this data from the YAML file and transform it into a CSV format, organized by symbols </span></h4></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><h4 id="h.njr1z9yqp272" style="display:inline"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">This will result in 50 CSV files after the extraction process, one for each symbol or data category</span></h4></li></ul><h4 id="h.v9y1hz7ifnzg-4" style="padding-top:12pt;margin:0;color:#666666;padding-left:0;font-size:12pt;padding-bottom:2pt;line-height:1.15;page-break-after:avoid;font-family:&quot;Arial&quot;;orphans:2;widows:2;height:12pt;text-align:left;padding-right:0"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"></span></h4><p style="padding-top:12pt;margin:0;color:#000000;padding-left:0;font-size:11pt;padding-bottom:12pt;line-height:1.15;font-family:&quot;Arial&quot;;orphans:2;widows:2;height:11pt;text-align:left;padding-right:0"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><p style="padding-top:12pt;margin:0;color:#000000;padding-left:0;font-size:11pt;padding-bottom:12pt;line-height:1.15;font-family:&quot;Arial&quot;;orphans:2;widows:2;height:11pt;text-align:left;padding-right:0"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><h3 id="h.xtpdj5b18px4" style="padding-top:14pt;margin:0;color:#434343;padding-left:0;font-size:14pt;padding-bottom:4pt;line-height:1.15;page-break-after:avoid;font-family:&quot;Arial&quot;;orphans:2;widows:2;text-align:left;padding-right:0"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:13pt;font-family:&quot;Arial&quot;;font-style:normal">Data Analysis and Visualization Requirements:</span></h3><h4 id="h.vfifuoey9bqs" style="padding-top:12pt;margin:0;color:#666666;padding-left:0;font-size:12pt;padding-bottom:2pt;line-height:1.15;page-break-after:avoid;font-family:&quot;Arial&quot;;orphans:2;widows:2;height:12pt;text-align:left;padding-right:0"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"></span></h4><ul class="lst-kix_jli6i3k4dw8k-0 start" style="padding:0;margin:0"><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Python DataFrame for Key Metrics</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">:</span></li></ul><ul class="lst-kix_jli6i3k4dw8k-1 start" style="padding:0;margin:0"><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:72pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Top 10 Green Stocks</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">: Sort the stocks based on their yearly return and select the top 10.</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:72pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Top 10 Loss Stocks</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">: Sort the stocks based on their yearly return and select the bottom 10.</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:72pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Market Summary</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">:</span></li></ul><ul class="lst-kix_jli6i3k4dw8k-2 start" style="padding:0;margin:0"><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:108pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Calculate the overall number of green vs. red stocks.</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:108pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Calculate the average price across all stocks.</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:108pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Calculate the average Volume across all stocks.</span></li></ul><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><h4 id="h.6l3eusxdx8cg" style="padding-top:12pt;margin:0;color:#666666;padding-left:0;font-size:12pt;padding-bottom:2pt;line-height:1.15;page-break-after:avoid;font-family:&quot;Arial&quot;;orphans:2;widows:2;text-align:left;padding-right:0"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">1. Volatility Analysis:</span></h4><ul class="lst-kix_6etib9jg6yxq-0 start" style="padding:0;margin:0"><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Objective</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">: Visualize the volatility of each stock over the past year by calculating the standard deviation of daily returns.</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Reason</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">: Volatility gives insight into how much the price fluctuates, which is valuable for risk assessment. Higher volatility often indicates more risk, while lower volatility indicates a more stable stock.</span></li></ul><p style="padding-top:12pt;margin:0;color:#000000;padding-left:0;font-size:11pt;padding-bottom:12pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Metrics</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">:</span></p><ul class="lst-kix_t6aravrggiye-0 start" style="padding:0;margin:0"><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span>Calculate </span><span style="font-weight:700">daily returns</span><span>&nbsp;for each stock: </span><span style="color:#188038;font-weight:400;font-family:&quot;Roboto Mono&quot;">(Close Price - Previous Close Price) / Previous Close Price</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">.</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span>Compute the </span><span style="font-weight:700">standard deviation</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp;of daily returns for each stock to measure volatility.</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span>Plot a </span><span style="font-weight:700">bar chart</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp;showing the volatility of the top 10 most volatile stocks over the year.</span></li></ul><p style="padding-top:12pt;margin:0;color:#000000;padding-left:0;font-size:11pt;padding-bottom:12pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Visualization</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">:</span></p><ul class="lst-kix_dkvanlvywnxr-0 start" style="padding:0;margin:0"><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Top 10 Most Volatile Stocks</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">: A bar chart with the stock ticker on the x-axis and volatility (standard deviation) on the y-axis.</span></li></ul><h4 id="h.xwjtzmnu2f2z" style="padding-top:12pt;margin:0;color:#666666;padding-left:0;font-size:12pt;padding-bottom:2pt;line-height:1.15;page-break-after:avoid;font-family:&quot;Arial&quot;;orphans:2;widows:2;text-align:left;padding-right:0"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">2. Cumulative Return Over Time:</span></h4><ul class="lst-kix_vn3gkkpynyow-0 start" style="padding:0;margin:0"><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Objective</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">: Show the cumulative return of each stock from the beginning of the year to the end.</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Reason</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">: The cumulative return is an important metric to visualize overall performance and growth over time. This helps users compare how different stocks performed relative to each other.</span></li></ul><p style="padding-top:12pt;margin:0;color:#000000;padding-left:0;font-size:11pt;padding-bottom:12pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Metrics</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">:</span></p><ul class="lst-kix_vemv4a4h7o5z-0 start" style="padding:0;margin:0"><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span>For each stock, calculate the </span><span style="font-weight:700">cumulative return</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp;by applying a running total of daily returns.</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span>Plot a </span><span style="font-weight:700">line chart</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp;for the top 5 performing stocks (based on cumulative return) over the course of the year.</span></li></ul><p style="padding-top:12pt;margin:0;color:#000000;padding-left:0;font-size:11pt;padding-bottom:12pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Visualization</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">:</span></p><ul class="lst-kix_949h6snf82w7-0 start" style="padding:0;margin:0"><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Cumulative Return for Top 5 Performing Stocks</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">: A line chart displaying cumulative returns for each stock over the year (increasing trend indicates positive performance).</span></li></ul><h4 id="h.46uv1g48afwn" style="padding-top:12pt;margin:0;color:#666666;padding-left:0;font-size:12pt;padding-bottom:2pt;line-height:1.15;page-break-after:avoid;font-family:&quot;Arial&quot;;orphans:2;widows:2;text-align:left;padding-right:0"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">3. Sector-wise Performance:</span></h4><ul class="lst-kix_vi3idpoapfuz-0 start" style="padding:0;margin:0"><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Objective</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">: Provide a breakdown of stock performance by sector (sector data shared as csv).</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Reason</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">: Investors and analysts often look at sector performance to gauge market sentiment in specific industries (e.g., IT, Financials, Energy, etc.).</span></li></ul><p style="padding-top:12pt;margin:0;color:#000000;padding-left:0;font-size:11pt;padding-bottom:12pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Metrics</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">:</span></p><ul class="lst-kix_wqj6g085h72p-0 start" style="padding:0;margin:0"><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span>Classify each stock by its </span><span style="font-weight:700">sector</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp;(this can be done by adding a separate dataset or manually mapping sectors to stocks).</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span>Calculate the </span><span style="font-weight:700">average yearly return</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp;for each sector.</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span>Plot a </span><span style="font-weight:700">bar chart</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp;showing the average performance for each sector.</span></li></ul><p style="padding-top:12pt;margin:0;color:#000000;padding-left:0;font-size:11pt;padding-bottom:12pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Visualization</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">:</span></p><ul class="lst-kix_xx2rc2yyy1jx-0 start" style="padding:0;margin:0"><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Average Yearly Return by Sector</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">: A bar chart where each bar represents a sector and its height indicates the average yearly return for stocks within that sector.</span></li></ul><h4 id="h.wti55jn3pptj" style="padding-top:12pt;margin:0;color:#666666;padding-left:0;font-size:12pt;padding-bottom:2pt;line-height:1.15;page-break-after:avoid;font-family:&quot;Arial&quot;;orphans:2;widows:2;text-align:left;padding-right:0"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">4. Stock Price Correlation:</span></h4><ul class="lst-kix_rfg6x6uelf2l-0 start" style="padding:0;margin:0"><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Objective</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">: Visualize the correlation between the stock prices of different companies.</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Reason</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">: This analysis is valuable to understand if certain stocks tend to move in tandem (e.g., correlated with market trends or sector performance).</span></li></ul><p style="padding-top:12pt;margin:0;color:#000000;padding-left:0;font-size:11pt;padding-bottom:12pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Metrics</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">:</span></p><ul class="lst-kix_tvrci6gog1l0-0 start" style="padding:0;margin:0"><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span>Calculate the </span><span style="font-weight:700">correlation coefficient</span><span>&nbsp;between the closing percentage of different stocks. For this, use the </span><span style="color:#188038;font-weight:400;font-family:&quot;Roboto Mono&quot;">pandas.DataFrame.corr()</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp;method.</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span>Create a </span><span style="font-weight:700">correlation matrix</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp;to identify how stocks are related to each other.</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span>Plot a </span><span style="font-weight:700">heatmap</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp;of the correlation matrix to visualize these relationships.</span></li></ul><p style="padding-top:12pt;margin:0;color:#000000;padding-left:0;font-size:11pt;padding-bottom:12pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Visualization</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">:</span></p><ul class="lst-kix_qd5s5y9sy50w-0 start" style="padding:0;margin:0"><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Stock Price Correlation Heatmap</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">: A heatmap to show the correlation between the closing prices of various stocks. Darker colors represent higher correlations.</span></li></ul><h4 id="h.4dng0d70bkib" style="padding-top:12pt;margin:0;color:#666666;padding-left:0;font-size:12pt;padding-bottom:2pt;line-height:1.15;page-break-after:avoid;font-family:&quot;Arial&quot;;orphans:2;widows:2;text-align:left;padding-right:0"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">5. Top 5 Gainers and Losers (Month-wise):</span></h4><ul class="lst-kix_4mon4ugkxrhc-0 start" style="padding:0;margin:0"><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Objective</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">: Provide monthly breakdowns of the top-performing and worst-performing stocks.</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Reason</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">: This analysis will allow users to observe more granular trends and understand which stocks are gaining or losing momentum on a monthly basis.</span></li></ul><p style="padding-top:12pt;margin:0;color:#000000;padding-left:0;font-size:11pt;padding-bottom:12pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Metrics</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">:</span></p><ul class="lst-kix_q9oi7gkhoc2x-0 start" style="padding:0;margin:0"><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span>Group the stock data by </span><span style="font-weight:700">month</span><span>&nbsp;and calculate the </span><span style="font-weight:700">monthly return</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp;for each stock.</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span>For each month, identify the top 5 </span><span style="font-weight:700">gainers</span><span>&nbsp;and top 5 </span><span style="font-weight:700">losers</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp;based on percentage change.</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span>Create a </span><span style="font-weight:700">dashboard-style visualization</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp;with 5 charts showing top gainers and losers for each month (12 months total).</span></li></ul><p style="padding-top:12pt;margin:0;color:#000000;padding-left:0;font-size:11pt;padding-bottom:12pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Visualization</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">:</span></p><ul class="lst-kix_853sgjkbzya3-0 start" style="padding:0;margin:0"><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Top 5 Gainers and Losers by Month</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">: Create a set of 12 bar charts for each month showing the top 5 gainers and losers based on percentage return.</span></li></ul><p style="padding-top:12pt;color:#000000;padding-left:0;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;height:11pt;text-align:left;padding-right:0"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span><br></span><span style="font-weight:700">Dataset:</span><span style="text-decoration-skip-ink:none;-webkit-text-decoration-skip:none;color:#1155cc;font-weight:700;text-decoration:underline"><a href="https://www.google.com/url?q=https://drive.google.com/drive/folders/1dfLGdGNeHmkuf4-7jZT6KYl6aU-t2v6M?usp%3Dsharing&amp;sa=D&amp;source=editors&amp;ust=1766412637674233&amp;usg=AOvVaw0eS2MSfaHMHDa67fXwa1VY" style="color:inherit;text-decoration:inherit">Dataset</a></span></p><hr><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><h3 id="h.f19l9ylanm16" style="padding-top:14pt;margin:0;color:#434343;padding-left:0;font-size:14pt;padding-bottom:4pt;line-height:1.15;page-break-after:avoid;font-family:&quot;Arial&quot;;orphans:2;widows:2;text-align:left;padding-right:0"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:13pt;font-family:&quot;Arial&quot;;font-style:normal">Results:</span></h3><ul class="lst-kix_s3mftxpq032p-0 start" style="padding:0;margin:0"><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">A fully functional dashboard showing the top-performing and worst-performing stocks over the last year.</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Insights on the overall market with clear indicators of stock performance trends.</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span>Interactive visualizations using </span><span style="font-weight:700">Power BI</span><span>&nbsp;and </span><span style="font-weight:700">Streamlit</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp;to make the data easily accessible for users.</span></li></ul><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><hr><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><h3 id="h.jefunrj10cd2" style="padding-top:14pt;margin:0;color:#434343;padding-left:0;font-size:14pt;padding-bottom:4pt;line-height:1.15;page-break-after:avoid;font-family:&quot;Arial&quot;;orphans:2;widows:2;text-align:left;padding-right:0"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:13pt;font-family:&quot;Arial&quot;;font-style:normal">Technical Tags:</span></h3><ul class="lst-kix_wgsob8uviu3h-0 start" style="padding:0;margin:0"><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Languages</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">: Python</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Database</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">: MySQL/PostgreSQL</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Visualization Tools</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">: Streamlit, Power BI</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Libraries</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">: Pandas, Matplotlib, SQLAlchemy</span></li></ul><hr><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><h3 id="h.z67dqfgeuj4" style="padding-top:14pt;margin:0;color:#434343;padding-left:0;font-size:14pt;padding-bottom:4pt;line-height:1.15;page-break-after:avoid;font-family:&quot;Arial&quot;;orphans:2;widows:2;text-align:left;padding-right:0"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:13pt;font-family:&quot;Arial&quot;;font-style:normal">Project Deliverables:</span></h3><ol class="lst-kix_lz5djk5njui-0 start" start="1" style="padding:0;margin:0"><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">SQL Database</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">: Contains clean and processed data.</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Python Scripts</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">: For data cleaning, analysis, and database interaction.</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Power BI Dashboard</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">: Visualizations for stock performance.</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Streamlit Application</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">: Interactive dashboard for real-time analysis.</span></li></ol><hr><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><h3 id="h.wtp4r5vd44p3" style="padding-top:14pt;margin:0;color:#434343;padding-left:0;font-size:14pt;padding-bottom:4pt;line-height:1.15;page-break-after:avoid;font-family:&quot;Arial&quot;;orphans:2;widows:2;text-align:left;padding-right:0"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:13pt;font-family:&quot;Arial&quot;;font-style:normal">Project Guidelines:</span></h3><ul class="lst-kix_k3uqiq4u2wcy-0 start" style="padding:0;margin:0"><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Follow coding standards</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">: Consistent naming conventions, modular code.</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Data validation</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">: Ensure all data is accurate and complete.</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Optimized queries</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">: Efficient SQL queries for large datasets.</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Documentation</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">: Well-documented code and a detailed project report.</span></li></ul><p style="padding-top:12pt;margin:0;color:#000000;padding-left:0;font-size:11pt;padding-bottom:12pt;line-height:1.15;font-family:&quot;Arial&quot;;orphans:2;widows:2;height:11pt;text-align:left;padding-right:0"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><p style="padding-top:12pt;margin:0;color:#000000;padding-left:0;font-size:11pt;padding-bottom:12pt;line-height:1.15;font-family:&quot;Arial&quot;;orphans:2;widows:2;height:11pt;text-align:left;padding-right:0"><span style="-webkit-text-decoration-skip:none;color:#000000;font-weight:700;text-decoration:underline;vertical-align:baseline;text-decoration-skip-ink:none;font-size:18pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><table style="border-spacing:0;border-collapse:collapse;margin-right:auto"><tbody><tr style="height:0pt"><td colspan="1" rowspan="1" style="border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:1pt;border-right-width:1pt;border-left-color:#000000;vertical-align:top;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;border-left-style:solid;border-bottom-width:1pt;width:228.8pt;border-top-color:#000000;border-bottom-style:solid"><p style="padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:11pt;padding-bottom:12pt;font-family:&quot;Arial&quot;;line-height:0.5;orphans:2;widows:2;text-align:left;padding-right:0"><span style="color:#ff0000;font-size:12pt;font-weight:700">Streamlit Doc</span></p></td><td colspan="1" rowspan="1" style="border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:1pt;border-right-width:1pt;border-left-color:#000000;vertical-align:top;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;border-left-style:solid;border-bottom-width:1pt;width:258pt;border-top-color:#000000;border-bottom-style:solid"><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.0;text-align:left"><span style="text-decoration-skip-ink:none;font-size:12pt;-webkit-text-decoration-skip:none;color:#1155cc;text-decoration:underline"><a href="https://www.google.com/url?q=https://docs.streamlit.io/library/api-reference&amp;sa=D&amp;source=editors&amp;ust=1766412637678843&amp;usg=AOvVaw09mzqVfxBNL3xS3JMhcQn_" style="color:inherit;text-decoration:inherit">https://docs.streamlit.io/library/api-reference</a></span></p></td></tr><tr style="height:0pt"><td colspan="1" rowspan="1" style="border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:1pt;border-right-width:1pt;border-left-color:#000000;vertical-align:top;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;border-left-style:solid;border-bottom-width:1pt;width:228.8pt;border-top-color:#000000;border-bottom-style:solid"><p style="padding-top:12pt;margin:0;color:#000000;padding-left:0;font-size:11pt;padding-bottom:12pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left;padding-right:0"><span style="color:#ff0000;font-size:12pt;font-weight:700">Streamlit recording (English)</span></p></td><td colspan="1" rowspan="1" style="border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:1pt;border-right-width:1pt;border-left-color:#000000;vertical-align:top;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;border-left-style:solid;border-bottom-width:1pt;width:258pt;border-top-color:#000000;border-bottom-style:solid"><p style="padding-top:12pt;margin:0;color:#000000;padding-left:0;font-size:11pt;padding-bottom:12pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left;padding-right:0"><span style="text-decoration-skip-ink:none;-webkit-text-decoration-skip:none;color:#0000ee;text-decoration:underline"><a href="https://www.google.com/url?q=https://docs.google.com/document/d/1aR3pUZFlCi8gicpF6aPHPESeFdOtGMlfob5PckresZk/edit?usp%3Dsharing&amp;sa=D&amp;source=editors&amp;ust=1766412637679540&amp;usg=AOvVaw0n5vEMjTZZuNM3oNJFSIKO" style="color:inherit;text-decoration:inherit">Special session for STREAMLIT(11/08/2024)</a></span></p></td></tr><tr style="height:0pt"><td colspan="1" rowspan="1" style="border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:1pt;border-right-width:1pt;border-left-color:#000000;vertical-align:top;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;border-left-style:solid;border-bottom-width:1pt;width:228.8pt;border-top-color:#000000;border-bottom-style:solid"><p style="padding-top:12pt;margin:0;color:#000000;padding-left:0;font-size:11pt;padding-bottom:12pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left;padding-right:0"><span style="color:#ff0000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal">Project Live Evaluation</span></p></td><td colspan="1" rowspan="1" style="border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:1pt;border-right-width:1pt;border-left-color:#000000;vertical-align:top;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;border-left-style:solid;border-bottom-width:1pt;width:258pt;border-top-color:#000000;border-bottom-style:solid"><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.0;text-align:left"><span style="text-decoration-skip-ink:none;-webkit-text-decoration-skip:none;color:#0000ee;text-decoration:underline"><a href="https://www.google.com/url?q=https://docs.google.com/document/u/0/d/1QisLD2kqDWFZJG2oDknKn2eMGi-Xq8oFPgA7UWSbcIQ/edit&amp;sa=D&amp;source=editors&amp;ust=1766412637680115&amp;usg=AOvVaw1o_cwrxAw0NkPMD1poHJ7-" style="color:inherit;text-decoration:inherit">Project Live Evaluation</a></span></p></td></tr><tr style="height:0pt"><td colspan="1" rowspan="1" style="border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:1pt;border-right-width:1pt;border-left-color:#000000;vertical-align:top;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;border-left-style:solid;border-bottom-width:1pt;width:228.8pt;border-top-color:#000000;border-bottom-style:solid"><p style="padding-top:12pt;margin:0;color:#000000;padding-left:0;font-size:11pt;padding-bottom:12pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left;padding-right:0"><span style="color:#ff0000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal">GitHub Reference</span></p></td><td colspan="1" rowspan="1" style="border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:1pt;border-right-width:1pt;border-left-color:#000000;vertical-align:top;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;border-left-style:solid;border-bottom-width:1pt;width:258pt;border-top-color:#000000;border-bottom-style:solid"><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.0;text-align:left"><span style="text-decoration-skip-ink:none;-webkit-text-decoration-skip:none;color:#0000ee;text-decoration:underline"><a href="https://www.google.com/url?q=https://docs.google.com/presentation/d/1XHCbgUOqbcXNUyQ87vTlKdKRgAbBxtkA/edit?usp%3Dsharing%26ouid%3D109735616107417446342%26rtpof%3Dtrue%26sd%3Dtrue&amp;sa=D&amp;source=editors&amp;ust=1766412637680672&amp;usg=AOvVaw20aqkfB8fy6hvjhReymWif" style="color:inherit;text-decoration:inherit">How to Use GitHub.pptx</a></span></p></td></tr><tr style="height:0pt"><td colspan="1" rowspan="1" style="border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:1pt;border-right-width:1pt;border-left-color:#000000;vertical-align:top;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;border-left-style:solid;border-bottom-width:1pt;width:228.8pt;border-top-color:#000000;border-bottom-style:solid"><p style="padding-top:12pt;margin:0;color:#000000;padding-left:0;font-size:11pt;padding-bottom:12pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left;padding-right:0"><span style="color:#ff0000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal">Project Orientation (Tamil)</span></p></td><td colspan="1" rowspan="1" style="border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:1pt;border-right-width:1pt;border-left-color:#000000;vertical-align:top;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;border-left-style:solid;border-bottom-width:1pt;width:258pt;border-top-color:#000000;border-bottom-style:solid"><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.0;text-align:left"><span style="text-decoration-skip-ink:none;font-size:12pt;-webkit-text-decoration-skip:none;color:#1155cc;text-decoration:underline"><a href="https://www.google.com/url?q=https://drive.google.com/file/d/1032XyFNSgO0Qi0yeCk5TukjWezlel5JW/view&amp;sa=D&amp;source=editors&amp;ust=1766412637681262&amp;usg=AOvVaw2_avg51t45Ju3fQdBfHP5k" style="color:inherit;text-decoration:inherit">Project Orientation </a></span></p></td></tr><tr style="height:0pt"><td colspan="1" rowspan="1" style="border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:1pt;border-right-width:1pt;border-left-color:#000000;vertical-align:top;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;border-left-style:solid;border-bottom-width:1pt;width:228.8pt;border-top-color:#000000;border-bottom-style:solid"><p style="padding-top:12pt;margin:0;color:#000000;padding-left:0;font-size:11pt;padding-bottom:12pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left;padding-right:0"><span style="color:#ff0000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal">Power BI doc</span></p></td><td colspan="1" rowspan="1" style="border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:1pt;border-right-width:1pt;border-left-color:#000000;vertical-align:top;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;border-left-style:solid;border-bottom-width:1pt;width:258pt;border-top-color:#000000;border-bottom-style:solid"><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.0;text-align:left"><span style="text-decoration-skip-ink:none;font-size:12pt;-webkit-text-decoration-skip:none;color:#1155cc;text-decoration:underline"><a href="https://www.google.com/url?q=https://docs.google.com/document/d/1t1VVd584dl6Xdp_HKVbx4xR2BtTqjV1McHt0R7_PTFQ/edit?tab%3Dt.0%23heading%3Dh.ezd3oh2ex58g&amp;sa=D&amp;source=editors&amp;ust=1766412637681839&amp;usg=AOvVaw33aGc9CGtkr5nTOxSWtFNE" style="color:inherit;text-decoration:inherit">Power bi doc</a></span></p></td></tr><tr style="height:0pt"><td colspan="1" rowspan="1" style="border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:1pt;border-right-width:1pt;border-left-color:#000000;vertical-align:top;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;border-left-style:solid;border-bottom-width:1pt;width:228.8pt;border-top-color:#000000;border-bottom-style:solid"><p style="padding-top:12pt;margin:0;color:#000000;padding-left:0;font-size:11pt;padding-bottom:12pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left;padding-right:0"><span style="color:#ff0000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal">Power BI Session</span></p></td><td colspan="1" rowspan="1" style="border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:1pt;border-right-width:1pt;border-left-color:#000000;vertical-align:top;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;border-left-style:solid;border-bottom-width:1pt;width:258pt;border-top-color:#000000;border-bottom-style:solid"><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.0;text-align:left"><span style="text-decoration-skip-ink:none;-webkit-text-decoration-skip:none;color:#0000ee;text-decoration:underline"><a href="https://www.google.com/url?q=https://docs.google.com/document/d/1Nuo_m1Lpc7Uy2SLutfI1SRMR25LMi2hfhGD7jIMliog/edit?usp%3Dsharing&amp;sa=D&amp;source=editors&amp;ust=1766412637682431&amp;usg=AOvVaw2pMSS0PXO7or2wrfg_JDcw" style="color:inherit;text-decoration:inherit">PPB - &nbsp;The Ultimate Power BI </a></span></p></td></tr><tr style="height:0pt"><td colspan="1" rowspan="1" style="border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:1pt;border-right-width:1pt;border-left-color:#000000;vertical-align:top;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;border-left-style:solid;border-bottom-width:1pt;width:228.8pt;border-top-color:#000000;border-bottom-style:solid"><p style="padding-top:12pt;margin:0;color:#000000;padding-left:0;font-size:11pt;padding-bottom:12pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left;padding-right:0"><span style="color:#ff0000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal">Project Orientation (English)</span></p></td><td colspan="1" rowspan="1" style="border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:1pt;border-right-width:1pt;border-left-color:#000000;vertical-align:top;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;border-left-style:solid;border-bottom-width:1pt;width:258pt;border-top-color:#000000;border-bottom-style:solid"><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.0;text-align:left"><span style="text-decoration-skip-ink:none;font-size:12pt;-webkit-text-decoration-skip:none;color:#1155cc;text-decoration:underline"><a href="https://www.google.com/url?q=https://drive.google.com/file/d/1pnL4I7LGKpYAJhfk3NlgIumgHkIdoBwX/view?usp%3Dsharing&amp;sa=D&amp;source=editors&amp;ust=1766412637683194&amp;usg=AOvVaw0Vv4Cupjix-KDYCtwF1xcB" style="color:inherit;text-decoration:inherit">Project Orientation English</a></span></p></td></tr></tbody></table><p style="padding-top:12pt;margin:0;color:#000000;padding-left:0;font-size:11pt;padding-bottom:12pt;line-height:1.15;font-family:&quot;Arial&quot;;orphans:2;widows:2;height:11pt;text-align:left;padding-right:0"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="font-size:12pt;font-weight:700">Project Evaluation metrics:</span></p><ul class="lst-kix_8skgho3xvr12-0 start" style="padding:0;margin:0"><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal">Maintainable: It can be maintained, even as your codebase grows.</span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal">Portable: It works the same in every environment (operating system)</span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="font-size:12pt">You have to maintain your code on </span><span style="font-size:12pt;font-weight:700">GitHub</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal">.(Mandatory)</span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="font-size:12pt">You have to keep your </span><span style="font-size:12pt;font-weight:700">GitHub</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp;repo public so that anyone can check your code.(Mandatory)</span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal">Proper readme file you have to maintain for any project development(Mandatory)</span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="font-size:12pt">You should include basic workflow and execution of the entire project in the readme file on </span><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal">GitHub</span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="font-size:12pt">Follow the coding standards: </span><span style="text-decoration-skip-ink:none;font-size:12pt;-webkit-text-decoration-skip:none;color:#1155cc;text-decoration:underline"><a href="https://www.google.com/url?q=https://www.python.org/dev/peps/pep-0008/&amp;sa=D&amp;source=editors&amp;ust=1766412637685867&amp;usg=AOvVaw35SeGVdwON8VxhGDSKNR5O" style="color:inherit;text-decoration:inherit">https://www.python.org/dev/peps/pep-0008/</a></span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="font-size:12pt">You need to Create a Demo video of your working model and post in </span><span style="font-size:12pt;font-weight:700">LinkedIn</span><span style="font-size:12pt">(</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal">Mandatory)</span></li></ul><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.0;orphans:2;widows:2;text-align:left"><span style="color:#1155cc;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Times New Roman&quot;;font-style:normal">PROJECT DOUBT CLARIFICATION SESSION ( PROJECT AND CLASS DOUBTS)</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.0;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Times New Roman&quot;;font-style:normal"></span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.0;orphans:2;widows:2;text-align:left"><span style="font-size:12pt;font-weight:700;font-family:&quot;Times New Roman&quot;">About Session: </span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Times New Roman&quot;;font-style:normal">The Project Doubt Clarification Session is a helpful resource for resolving questions and concerns about projects and class topics. It provides support in understanding project requirements, addressing code issues, and clarifying class concepts. The session aims to enhance comprehension and provide guidance to overcome challenges effectively.</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.0;orphans:2;widows:2;text-align:left"><span style="color:#ff0000;font-weight:700;font-family:&quot;Times New Roman&quot;">Note: Book the slot at least before 12:00 Pm on the same day</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.0;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Times New Roman&quot;;font-style:normal"></span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.0;orphans:2;widows:2;text-align:left"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Times New Roman&quot;;font-style:normal">Timing: Monday to Saturday (4:00PM to 5:00PM)</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.0;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Times New Roman&quot;;font-style:normal"></span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.0;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Times New Roman&quot;;font-style:normal"></span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.0;orphans:2;widows:2;text-align:left"><span style="font-size:12pt;font-weight:700;font-family:&quot;Times New Roman&quot;">Booking link :</span><span style="-webkit-text-decoration-skip:none;color:#1155cc;font-weight:700;text-decoration:underline;text-decoration-skip-ink:none;font-size:12pt;font-family:&quot;Times New Roman&quot;"><a href="https://www.google.com/url?q=https://forms.gle/XC553oSbMJ2Gcfug9&amp;sa=D&amp;source=editors&amp;ust=1766412637687865&amp;usg=AOvVaw3QYjGeRhoFbGh6sClQwxAw" style="color:inherit;text-decoration:inherit">https://forms.gle/XC553oSbMJ2Gcfug9</a></span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Times New Roman&quot;;font-style:normal"></span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.0;orphans:2;widows:2;text-align:left"><span style="color:#1155cc;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Times New Roman&quot;;font-style:normal">LIVE EVALUATION SESSION (CAPSTONE AND FINAL PROJECT)</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.0;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Times New Roman&quot;;font-style:normal"></span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.0;orphans:2;widows:2;text-align:left"><span style="font-size:12pt;font-weight:700;font-family:&quot;Times New Roman&quot;">About Session: </span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Times New Roman&quot;;font-style:normal">The Live Evaluation Session for Capstone and Final Projects allows participants to showcase their projects and receive real-time feedback for improvement. It assesses project quality and provides an opportunity for discussion and evaluation.</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.0;orphans:2;widows:2;text-align:left"><span style="color:#ff0000;font-weight:700;font-family:&quot;Times New Roman&quot;">Note: This form will Open on Saturday and Sunday Only on Every Week</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.0;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Times New Roman&quot;;font-style:normal"></span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.0;orphans:2;widows:2;text-align:left"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Times New Roman&quot;;font-style:normal">Timing: Monday-Saturday (5:30PM to 7:00PM)</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.0;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Times New Roman&quot;;font-style:normal"></span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.0;orphans:2;widows:2;text-align:left"><span style="font-size:12pt;font-weight:700;font-family:&quot;Times New Roman&quot;">Booking link : </span><span style="-webkit-text-decoration-skip:none;color:#1155cc;font-weight:700;text-decoration:underline;text-decoration-skip-ink:none;font-size:12pt;font-family:&quot;Times New Roman&quot;"><a href="https://www.google.com/url?q=https://forms.gle/1m2Gsro41fLtZurRA&amp;sa=D&amp;source=editors&amp;ust=1766412637689431&amp;usg=AOvVaw2HPzYGc4XyYEHgB9eT_2z0" style="color:inherit;text-decoration:inherit">https://forms.gle/1m2Gsro41fLtZurRA</a></span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.0;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.0;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.0;orphans:2;widows:2;text-align:left"><span style="font-size:12pt">&nbsp; &nbsp; &nbsp; &nbsp; </span></p><table style="border-spacing:0;border-collapse:collapse;margin-right:auto"><tbody><tr style="height:0pt"><td colspan="1" rowspan="1" style="border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:1pt;border-right-width:1pt;border-left-color:#000000;vertical-align:top;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;border-left-style:solid;border-bottom-width:1pt;width:153pt;border-top-color:#000000;border-bottom-style:solid"><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.0;text-align:left"><span style="color:#1155cc;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal">Created By:</span></p></td><td colspan="1" rowspan="1" style="border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:1pt;border-right-width:1pt;border-left-color:#000000;vertical-align:top;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;border-left-style:solid;border-bottom-width:1pt;width:153pt;border-top-color:#000000;border-bottom-style:solid"><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.0;text-align:left"><span style="color:#1155cc;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal">Verified By:</span></p></td><td colspan="1" rowspan="1" style="border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:1pt;border-right-width:1pt;border-left-color:#000000;vertical-align:top;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;border-left-style:solid;border-bottom-width:1pt;width:153pt;border-top-color:#000000;border-bottom-style:solid"><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.0;text-align:left"><span style="color:#1155cc;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal">Approved By:</span></p></td></tr><tr style="height:0pt"><td colspan="1" rowspan="1" style="border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:1pt;border-right-width:1pt;border-left-color:#000000;vertical-align:top;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;border-left-style:solid;border-bottom-width:1pt;width:153pt;border-top-color:#000000;border-bottom-style:solid"><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.0;text-align:left"><span style="text-decoration-skip-ink:none;-webkit-text-decoration-skip:none;color:#0000ee;text-decoration:underline"><a href="mailto:asvinselvarajan@gmail.com" style="color:inherit;text-decoration:inherit">Asvin Selvarajan</a></span></p></td><td colspan="1" rowspan="1" style="border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:1pt;border-right-width:1pt;border-left-color:#000000;vertical-align:top;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;border-left-style:solid;border-bottom-width:1pt;width:153pt;border-top-color:#000000;border-bottom-style:solid"><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.0;text-align:left"><span style="color:#1155cc;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal">Shadiya</span></p></td><td colspan="1" rowspan="1" style="border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:1pt;border-right-width:1pt;border-left-color:#000000;vertical-align:top;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;border-left-style:solid;border-bottom-width:1pt;width:153pt;border-top-color:#000000;border-bottom-style:solid"><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.5;orphans:2;widows:2;text-align:center"><span style="text-decoration-skip-ink:none;-webkit-text-decoration-skip:none;color:#0000ee;text-decoration:underline"><a href="mailto:Nehlath@guvi.in" style="color:inherit;text-decoration:inherit">Nehlath Harmain</a></span></p></td></tr></tbody></table><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.0;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p></div></div></div></div></body></html>
+------MultipartBoundary--N03U5v5XEKmojsinQFxdL16eIf5GxsBNcgR8URQpvW----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://themes.googleusercontent.com/fonts/css?kit=GKPTkzTvMlBZD6VkoaLqRF0oSkEp6BZlLQLKRX8ECmo
+
+@charset "utf-8";
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 700; font-stretch: 100%; src: url("https://fonts.gstatic.com/s/roboto/v50/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmZiAr0lFQm524.woff2") format("woff2"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 700; font-stretch: 100%; src: url("https://fonts.gstatic.com/s/roboto/v50/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmQiAr0lFQm524.woff2") format("woff2"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 700; font-stretch: 100%; src: url("https://fonts.gstatic.com/s/roboto/v50/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmYiAr0lFQm524.woff2") format("woff2"); unicode-range: U+1F00-1FFF; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 700; font-stretch: 100%; src: url("https://fonts.gstatic.com/s/roboto/v50/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmXiAr0lFQm524.woff2") format("woff2"); unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 700; font-stretch: 100%; src: url("https://fonts.gstatic.com/s/roboto/v50/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalnoiAr0lFQm524.woff2") format("woff2"); unicode-range: U+302-303, U+305, U+307-308, U+310, U+312, U+315, U+31A, U+326-327, U+32C, U+32F-330, U+332-333, U+338, U+33A, U+346, U+34D, U+391-3A1, U+3A3-3A9, U+3B1-3C9, U+3D1, U+3D5-3D6, U+3F0-3F1, U+3F4-3F5, U+2016-2017, U+2034-2038, U+203C, U+2040, U+2043, U+2047, U+2050, U+2057, U+205F, U+2070-2071, U+2074-208E, U+2090-209C, U+20D0-20DC, U+20E1, U+20E5-20EF, U+2100-2112, U+2114-2115, U+2117-2121, U+2123-214F, U+2190, U+2192, U+2194-21AE, U+21B0-21E5, U+21F1-21F2, U+21F4-2211, U+2213-2214, U+2216-22FF, U+2308-230B, U+2310, U+2319, U+231C-2321, U+2336-237A, U+237C, U+2395, U+239B-23B7, U+23D0, U+23DC-23E1, U+2474-2475, U+25AF, U+25B3, U+25B7, U+25BD, U+25C1, U+25CA, U+25CC, U+25FB, U+266D-266F, U+27C0-27FF, U+2900-2AFF, U+2B0E-2B11, U+2B30-2B4C, U+2BFE, U+3030, U+FF5B, U+FF5D, U+1D400-1D7FF, U+1EE00-1EEFF; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 700; font-stretch: 100%; src: url("https://fonts.gstatic.com/s/roboto/v50/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjaln6iAr0lFQm524.woff2") format("woff2"); unicode-range: U+1-C, U+E-1F, U+7F-9F, U+20DD-20E0, U+20E2-20E4, U+2150-218F, U+2190, U+2192, U+2194-2199, U+21AF, U+21E6-21F0, U+21F3, U+2218-2219, U+2299, U+22C4-22C6, U+2300-243F, U+2440-244A, U+2460-24FF, U+25A0-27BF, U+2800-28FF, U+2921-2922, U+2981, U+29BF, U+29EB, U+2B00-2BFF, U+4DC0-4DFF, U+FFF9-FFFB, U+10140-1018E, U+10190-1019C, U+101A0, U+101D0-101FD, U+102E0-102FB, U+10E60-10E7E, U+1D2C0-1D2D3, U+1D2E0-1D37F, U+1F000-1F0FF, U+1F100-1F1AD, U+1F1E6-1F1FF, U+1F30D-1F30F, U+1F315, U+1F31C, U+1F31E, U+1F320-1F32C, U+1F336, U+1F378, U+1F37D, U+1F382, U+1F393-1F39F, U+1F3A7-1F3A8, U+1F3AC-1F3AF, U+1F3C2, U+1F3C4-1F3C6, U+1F3CA-1F3CE, U+1F3D4-1F3E0, U+1F3ED, U+1F3F1-1F3F3, U+1F3F5-1F3F7, U+1F408, U+1F415, U+1F41F, U+1F426, U+1F43F, U+1F441-1F442, U+1F444, U+1F446-1F449, U+1F44C-1F44E, U+1F453, U+1F46A, U+1F47D, U+1F4A3, U+1F4B0, U+1F4B3, U+1F4B9, U+1F4BB, U+1F4BF, U+1F4C8-1F4CB, U+1F4D6, U+1F4DA, U+1F4DF, U+1F4E3-1F4E6, U+1F4EA-1F4ED, U+1F4F7, U+1F4F9-1F4FB, U+1F4FD-1F4FE, U+1F503, U+1F507-1F50B, U+1F50D, U+1F512-1F513, U+1F53E-1F54A, U+1F54F-1F5FA, U+1F610, U+1F650-1F67F, U+1F687, U+1F68D, U+1F691, U+1F694, U+1F698, U+1F6AD, U+1F6B2, U+1F6B9-1F6BA, U+1F6BC, U+1F6C6-1F6CF, U+1F6D3-1F6D7, U+1F6E0-1F6EA, U+1F6F0-1F6F3, U+1F6F7-1F6FC, U+1F700-1F7FF, U+1F800-1F80B, U+1F810-1F847, U+1F850-1F859, U+1F860-1F887, U+1F890-1F8AD, U+1F8B0-1F8BB, U+1F8C0-1F8C1, U+1F900-1F90B, U+1F93B, U+1F946, U+1F984, U+1F996, U+1F9E9, U+1FA00-1FA6F, U+1FA70-1FA7C, U+1FA80-1FA89, U+1FA8F-1FAC6, U+1FACE-1FADC, U+1FADF-1FAE9, U+1FAF0-1FAF8, U+1FB00-1FBFF; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 700; font-stretch: 100%; src: url("https://fonts.gstatic.com/s/roboto/v50/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmbiAr0lFQm524.woff2") format("woff2"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 700; font-stretch: 100%; src: url("https://fonts.gstatic.com/s/roboto/v50/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmaiAr0lFQm524.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 700; font-stretch: 100%; src: url("https://fonts.gstatic.com/s/roboto/v50/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiAr0lFQm.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: "Roboto Mono"; font-style: normal; font-weight: 400; src: url("https://fonts.gstatic.com/s/robotomono/v31/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vq_SeW4AJ68SLwt.woff2") format("woff2"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: "Roboto Mono"; font-style: normal; font-weight: 400; src: url("https://fonts.gstatic.com/s/robotomono/v31/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vq_QOW4AJ68SLwt.woff2") format("woff2"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: "Roboto Mono"; font-style: normal; font-weight: 400; src: url("https://fonts.gstatic.com/s/robotomono/v31/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vq_R-W4AJ68SLwt.woff2") format("woff2"); unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: "Roboto Mono"; font-style: normal; font-weight: 400; src: url("https://fonts.gstatic.com/s/robotomono/v31/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vq_S-W4AJ68SLwt.woff2") format("woff2"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: "Roboto Mono"; font-style: normal; font-weight: 400; src: url("https://fonts.gstatic.com/s/robotomono/v31/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vq_SuW4AJ68SLwt.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: "Roboto Mono"; font-style: normal; font-weight: 400; src: url("https://fonts.gstatic.com/s/robotomono/v31/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vq_ROW4AJ68SA.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+------MultipartBoundary--N03U5v5XEKmojsinQFxdL16eIf5GxsBNcgR8URQpvW----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-026c43ce-55d7-47c6-95b9-2605d5613bf6@mhtml.blink
+
+@charset "utf-8";
+
+@import url("https://themes.googleusercontent.com/fonts/css?kit=GKPTkzTvMlBZD6VkoaLqRF0oSkEp6BZlLQLKRX8ECmo");
+
+.lst-kix_2x5yab5l3p6d-7 > li::before { content: "" counter(lst-ctn-kix_2x5yab5l3p6d-7, lower-latin) ". "; }
+
+.lst-kix_2x5yab5l3p6d-6 > li::before { content: "" counter(lst-ctn-kix_2x5yab5l3p6d-6) ". "; }
+
+.lst-kix_2x5yab5l3p6d-8 > li::before { content: "" counter(lst-ctn-kix_2x5yab5l3p6d-8, lower-roman) ". "; }
+
+.lst-kix_2x5yab5l3p6d-2 > li::before { content: "" counter(lst-ctn-kix_2x5yab5l3p6d-2, lower-roman) ". "; }
+
+.lst-kix_2x5yab5l3p6d-1 > li::before { content: "" counter(lst-ctn-kix_2x5yab5l3p6d-1, lower-latin) ". "; }
+
+.lst-kix_2x5yab5l3p6d-0 > li::before { content: "" counter(lst-ctn-kix_2x5yab5l3p6d-0) ". "; }
+
+.lst-kix_a1j8b9wkut3k-7 > li::before { content: "‚óã  "; }
+
+.lst-kix_a1j8b9wkut3k-6 > li::before { content: "‚óè  "; }
+
+.lst-kix_wu5z7qwlxwxq-5 > li::before { content: "" counter(lst-ctn-kix_wu5z7qwlxwxq-5, lower-roman) ". "; }
+
+.lst-kix_wu5z7qwlxwxq-4 > li::before { content: "" counter(lst-ctn-kix_wu5z7qwlxwxq-4, lower-latin) ". "; }
+
+.lst-kix_a1j8b9wkut3k-8 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_wu5z7qwlxwxq-3 > li::before { content: "" counter(lst-ctn-kix_wu5z7qwlxwxq-3) ". "; }
+
+ul.lst-kix_zd9u906ju9t7-0 { list-style-type: none; }
+
+.lst-kix_lz5djk5njui-1 > li { counter-increment: lst-ctn-kix_lz5djk5njui-1 1; }
+
+.lst-kix_4mon4ugkxrhc-4 > li::before { content: "‚óã  "; }
+
+.lst-kix_4mon4ugkxrhc-6 > li::before { content: "‚óè  "; }
+
+.lst-kix_4mon4ugkxrhc-3 > li::before { content: "‚óè  "; }
+
+.lst-kix_4mon4ugkxrhc-7 > li::before { content: "‚óã  "; }
+
+ul.lst-kix_zd9u906ju9t7-8 { list-style-type: none; }
+
+ul.lst-kix_zd9u906ju9t7-7 { list-style-type: none; }
+
+ul.lst-kix_zd9u906ju9t7-6 { list-style-type: none; }
+
+ul.lst-kix_zd9u906ju9t7-5 { list-style-type: none; }
+
+.lst-kix_wu5z7qwlxwxq-6 > li::before { content: "" counter(lst-ctn-kix_wu5z7qwlxwxq-6) ". "; }
+
+ul.lst-kix_zd9u906ju9t7-4 { list-style-type: none; }
+
+ul.lst-kix_zd9u906ju9t7-3 { list-style-type: none; }
+
+ul.lst-kix_zd9u906ju9t7-2 { list-style-type: none; }
+
+ul.lst-kix_zd9u906ju9t7-1 { list-style-type: none; }
+
+.lst-kix_4mon4ugkxrhc-5 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_wu5z7qwlxwxq-7 > li::before { content: "" counter(lst-ctn-kix_wu5z7qwlxwxq-7, lower-latin) ". "; }
+
+.lst-kix_wu5z7qwlxwxq-8 > li::before { content: "" counter(lst-ctn-kix_wu5z7qwlxwxq-8, lower-roman) ". "; }
+
+.lst-kix_2x5yab5l3p6d-3 > li::before { content: "" counter(lst-ctn-kix_2x5yab5l3p6d-3) ". "; }
+
+.lst-kix_2x5yab5l3p6d-4 > li::before { content: "" counter(lst-ctn-kix_2x5yab5l3p6d-4, lower-latin) ". "; }
+
+.lst-kix_4mon4ugkxrhc-8 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_2x5yab5l3p6d-5 > li::before { content: "" counter(lst-ctn-kix_2x5yab5l3p6d-5, lower-roman) ". "; }
+
+ol.lst-kix_2vztxh6468c6-0.start { counter-reset: lst-ctn-kix_2vztxh6468c6-0 0; }
+
+ol.lst-kix_8qfe8zqs5odb-7.start { counter-reset: lst-ctn-kix_8qfe8zqs5odb-7 0; }
+
+.lst-kix_tvrci6gog1l0-7 > li::before { content: "‚óã  "; }
+
+.lst-kix_tvrci6gog1l0-6 > li::before { content: "‚óè  "; }
+
+.lst-kix_tvrci6gog1l0-3 > li::before { content: "‚óè  "; }
+
+.lst-kix_tvrci6gog1l0-5 > li::before { content: "‚ñ†  "; }
+
+ol.lst-kix_ldrb949ds4he-0.start { counter-reset: lst-ctn-kix_ldrb949ds4he-0 0; }
+
+.lst-kix_8qfe8zqs5odb-0 > li { counter-increment: lst-ctn-kix_8qfe8zqs5odb-0 1; }
+
+.lst-kix_tvrci6gog1l0-4 > li::before { content: "‚óã  "; }
+
+ol.lst-kix_8s3wmfndyq3j-3.start { counter-reset: lst-ctn-kix_8s3wmfndyq3j-3 0; }
+
+ol.lst-kix_gn3prfho60y2-4.start { counter-reset: lst-ctn-kix_gn3prfho60y2-4 0; }
+
+.lst-kix_8s3wmfndyq3j-6 > li { counter-increment: lst-ctn-kix_8s3wmfndyq3j-6 1; }
+
+.lst-kix_zh3cmfbvenko-6 > li { counter-increment: lst-ctn-kix_zh3cmfbvenko-6 1; }
+
+.lst-kix_tvrci6gog1l0-8 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_2x5yab5l3p6d-2 > li { counter-increment: lst-ctn-kix_2x5yab5l3p6d-2 1; }
+
+.lst-kix_wu5z7qwlxwxq-0 > li::before { content: "" counter(lst-ctn-kix_wu5z7qwlxwxq-0) ". "; }
+
+.lst-kix_wu5z7qwlxwxq-2 > li::before { content: "" counter(lst-ctn-kix_wu5z7qwlxwxq-2, lower-roman) ". "; }
+
+ol.lst-kix_mpt29qbg7bgj-6.start { counter-reset: lst-ctn-kix_mpt29qbg7bgj-6 0; }
+
+.lst-kix_wu5z7qwlxwxq-1 > li::before { content: "" counter(lst-ctn-kix_wu5z7qwlxwxq-1, lower-latin) ". "; }
+
+.lst-kix_tvrci6gog1l0-2 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_lz5djk5njui-8 > li { counter-increment: lst-ctn-kix_lz5djk5njui-8 1; }
+
+ol.lst-kix_2vztxh6468c6-5.start { counter-reset: lst-ctn-kix_2vztxh6468c6-5 0; }
+
+.lst-kix_tvrci6gog1l0-1 > li::before { content: "‚óã  "; }
+
+.lst-kix_tvrci6gog1l0-0 > li::before { content: "‚óè  "; }
+
+.lst-kix_8skgho3xvr12-8 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_8skgho3xvr12-6 > li::before { content: "‚óè  "; }
+
+ul.lst-kix_vaikd1hao26o-3 { list-style-type: none; }
+
+ul.lst-kix_vaikd1hao26o-2 { list-style-type: none; }
+
+.lst-kix_gn3prfho60y2-2 > li { counter-increment: lst-ctn-kix_gn3prfho60y2-2 1; }
+
+ol.lst-kix_8s3wmfndyq3j-8.start { counter-reset: lst-ctn-kix_8s3wmfndyq3j-8 0; }
+
+ul.lst-kix_vaikd1hao26o-5 { list-style-type: none; }
+
+ul.lst-kix_vaikd1hao26o-4 { list-style-type: none; }
+
+ul.lst-kix_vaikd1hao26o-7 { list-style-type: none; }
+
+ol.lst-kix_ldrb949ds4he-5.start { counter-reset: lst-ctn-kix_ldrb949ds4he-5 0; }
+
+ul.lst-kix_vaikd1hao26o-6 { list-style-type: none; }
+
+ul.lst-kix_vaikd1hao26o-8 { list-style-type: none; }
+
+ul.lst-kix_a1j8b9wkut3k-7 { list-style-type: none; }
+
+.lst-kix_dkvanlvywnxr-7 > li::before { content: "‚óã  "; }
+
+.lst-kix_8skgho3xvr12-0 > li::before { content: "‚óè  "; }
+
+ul.lst-kix_a1j8b9wkut3k-8 { list-style-type: none; }
+
+ul.lst-kix_a1j8b9wkut3k-5 { list-style-type: none; }
+
+.lst-kix_t6aravrggiye-6 > li::before { content: "‚óè  "; }
+
+ul.lst-kix_a1j8b9wkut3k-6 { list-style-type: none; }
+
+ul.lst-kix_a1j8b9wkut3k-3 { list-style-type: none; }
+
+.lst-kix_8skgho3xvr12-2 > li::before { content: "‚ñ†  "; }
+
+ul.lst-kix_a1j8b9wkut3k-4 { list-style-type: none; }
+
+ul.lst-kix_a1j8b9wkut3k-1 { list-style-type: none; }
+
+ul.lst-kix_vaikd1hao26o-1 { list-style-type: none; }
+
+ul.lst-kix_a1j8b9wkut3k-2 { list-style-type: none; }
+
+ul.lst-kix_vaikd1hao26o-0 { list-style-type: none; }
+
+.lst-kix_n98v3whgwf51-5 > li { counter-increment: lst-ctn-kix_n98v3whgwf51-5 1; }
+
+.lst-kix_8skgho3xvr12-4 > li::before { content: "‚óã  "; }
+
+.lst-kix_t6aravrggiye-8 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_dkvanlvywnxr-5 > li::before { content: "‚ñ†  "; }
+
+ol.lst-kix_mpt29qbg7bgj-1.start { counter-reset: lst-ctn-kix_mpt29qbg7bgj-1 0; }
+
+ul.lst-kix_vn3gkkpynyow-0 { list-style-type: none; }
+
+ul.lst-kix_vn3gkkpynyow-5 { list-style-type: none; }
+
+.lst-kix_dkvanlvywnxr-3 > li::before { content: "‚óè  "; }
+
+ul.lst-kix_vn3gkkpynyow-6 { list-style-type: none; }
+
+ul.lst-kix_vn3gkkpynyow-7 { list-style-type: none; }
+
+ul.lst-kix_vn3gkkpynyow-8 { list-style-type: none; }
+
+ul.lst-kix_vn3gkkpynyow-1 { list-style-type: none; }
+
+.lst-kix_dkvanlvywnxr-1 > li::before { content: "‚óã  "; }
+
+ul.lst-kix_vn3gkkpynyow-2 { list-style-type: none; }
+
+ul.lst-kix_vn3gkkpynyow-3 { list-style-type: none; }
+
+ul.lst-kix_vn3gkkpynyow-4 { list-style-type: none; }
+
+ol.lst-kix_wu5z7qwlxwxq-5.start { counter-reset: lst-ctn-kix_wu5z7qwlxwxq-5 0; }
+
+.lst-kix_jli6i3k4dw8k-7 > li::before { content: "‚óã  "; }
+
+.lst-kix_mpt29qbg7bgj-3 > li::before { content: "" counter(lst-ctn-kix_mpt29qbg7bgj-3) ". "; }
+
+.lst-kix_mpt29qbg7bgj-1 > li::before { content: "" counter(lst-ctn-kix_mpt29qbg7bgj-1, lower-latin) ". "; }
+
+.lst-kix_jli6i3k4dw8k-3 > li::before { content: "‚óè  "; }
+
+.lst-kix_jli6i3k4dw8k-5 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_vemv4a4h7o5z-1 > li::before { content: "‚óã  "; }
+
+.lst-kix_2vztxh6468c6-4 > li { counter-increment: lst-ctn-kix_2vztxh6468c6-4 1; }
+
+.lst-kix_4mon4ugkxrhc-1 > li::before { content: "‚óã  "; }
+
+.lst-kix_a1j8b9wkut3k-1 > li::before { content: "‚óã  "; }
+
+.lst-kix_jli6i3k4dw8k-1 > li::before { content: "‚óã  "; }
+
+.lst-kix_8qfe8zqs5odb-7 > li { counter-increment: lst-ctn-kix_8qfe8zqs5odb-7 1; }
+
+.lst-kix_n98v3whgwf51-6 > li { counter-increment: lst-ctn-kix_n98v3whgwf51-6 1; }
+
+.lst-kix_a1j8b9wkut3k-3 > li::before { content: "‚óè  "; }
+
+.lst-kix_gn3prfho60y2-3 > li { counter-increment: lst-ctn-kix_gn3prfho60y2-3 1; }
+
+.lst-kix_a1j8b9wkut3k-5 > li::before { content: "‚ñ†  "; }
+
+ol.lst-kix_lz5djk5njui-0.start { counter-reset: lst-ctn-kix_lz5djk5njui-0 0; }
+
+ol.lst-kix_2x5yab5l3p6d-6.start { counter-reset: lst-ctn-kix_2x5yab5l3p6d-6 0; }
+
+.lst-kix_mpt29qbg7bgj-5 > li::before { content: "" counter(lst-ctn-kix_mpt29qbg7bgj-5, lower-roman) ". "; }
+
+.lst-kix_t6aravrggiye-4 > li::before { content: "‚óã  "; }
+
+.lst-kix_mpt29qbg7bgj-7 > li::before { content: "" counter(lst-ctn-kix_mpt29qbg7bgj-7, lower-latin) ". "; }
+
+.lst-kix_t6aravrggiye-0 > li::before { content: "‚óè  "; }
+
+.lst-kix_t6aravrggiye-2 > li::before { content: "‚ñ†  "; }
+
+ol.lst-kix_lz5djk5njui-1.start { counter-reset: lst-ctn-kix_lz5djk5njui-1 0; }
+
+.lst-kix_8qfe8zqs5odb-8 > li { counter-increment: lst-ctn-kix_8qfe8zqs5odb-8 1; }
+
+.lst-kix_wqj6g085h72p-1 > li::before { content: "‚óã  "; }
+
+.lst-kix_wqj6g085h72p-2 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_xx2rc2yyy1jx-2 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_xx2rc2yyy1jx-1 > li::before { content: "‚óã  "; }
+
+.lst-kix_wu5z7qwlxwxq-0 > li { counter-increment: lst-ctn-kix_wu5z7qwlxwxq-0 1; }
+
+.lst-kix_vemv4a4h7o5z-7 > li::before { content: "‚óã  "; }
+
+.lst-kix_vemv4a4h7o5z-8 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_8yeviqw939w-1 > li::before { content: "‚óã  "; }
+
+.lst-kix_wqj6g085h72p-6 > li::before { content: "‚óè  "; }
+
+.lst-kix_vemv4a4h7o5z-3 > li::before { content: "‚óè  "; }
+
+.lst-kix_vemv4a4h7o5z-4 > li::before { content: "‚óã  "; }
+
+.lst-kix_wqj6g085h72p-5 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_8yeviqw939w-5 > li::before { content: "‚ñ†  "; }
+
+ol.lst-kix_8qfe8zqs5odb-3.start { counter-reset: lst-ctn-kix_8qfe8zqs5odb-3 0; }
+
+.lst-kix_8yeviqw939w-4 > li::before { content: "‚óã  "; }
+
+ol.lst-kix_n98v3whgwf51-2.start { counter-reset: lst-ctn-kix_n98v3whgwf51-2 0; }
+
+ol.lst-kix_ldrb949ds4he-4.start { counter-reset: lst-ctn-kix_ldrb949ds4he-4 0; }
+
+.lst-kix_8yeviqw939w-8 > li::before { content: "‚ñ†  "; }
+
+ul.lst-kix_qd5s5y9sy50w-0 { list-style-type: none; }
+
+ul.lst-kix_qd5s5y9sy50w-2 { list-style-type: none; }
+
+.lst-kix_l88f8k7y7guf-4 > li::before { content: "‚óã  "; }
+
+ul.lst-kix_qd5s5y9sy50w-1 { list-style-type: none; }
+
+ul.lst-kix_qd5s5y9sy50w-4 { list-style-type: none; }
+
+ul.lst-kix_qd5s5y9sy50w-3 { list-style-type: none; }
+
+ul.lst-kix_qd5s5y9sy50w-6 { list-style-type: none; }
+
+ol.lst-kix_n98v3whgwf51-1.start { counter-reset: lst-ctn-kix_n98v3whgwf51-1 0; }
+
+ul.lst-kix_qd5s5y9sy50w-5 { list-style-type: none; }
+
+ul.lst-kix_59ogqsmyydi-0 { list-style-type: none; }
+
+ul.lst-kix_qd5s5y9sy50w-8 { list-style-type: none; }
+
+ul.lst-kix_qd5s5y9sy50w-7 { list-style-type: none; }
+
+ul.lst-kix_59ogqsmyydi-4 { list-style-type: none; }
+
+ul.lst-kix_59ogqsmyydi-3 { list-style-type: none; }
+
+ul.lst-kix_59ogqsmyydi-2 { list-style-type: none; }
+
+.lst-kix_l88f8k7y7guf-5 > li::before { content: "‚ñ†  "; }
+
+ul.lst-kix_59ogqsmyydi-1 { list-style-type: none; }
+
+.lst-kix_zd9u906ju9t7-8 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_l88f8k7y7guf-8 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_wz76y2sa0lmz-1 > li::before { content: "‚óã  "; }
+
+.lst-kix_8yeviqw939w-0 > li::before { content: "‚óè  "; }
+
+.lst-kix_vaikd1hao26o-1 > li::before { content: "‚óã  "; }
+
+ol.lst-kix_n98v3whgwf51-7.start { counter-reset: lst-ctn-kix_n98v3whgwf51-7 0; }
+
+.lst-kix_wz76y2sa0lmz-2 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_wz76y2sa0lmz-6 > li::before { content: "‚óè  "; }
+
+.lst-kix_vaikd1hao26o-2 > li::before { content: "‚ñ†  "; }
+
+ol.lst-kix_8qfe8zqs5odb-8.start { counter-reset: lst-ctn-kix_8qfe8zqs5odb-8 0; }
+
+ul.lst-kix_a1j8b9wkut3k-0 { list-style-type: none; }
+
+.lst-kix_vaikd1hao26o-5 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_mpt29qbg7bgj-6 > li { counter-increment: lst-ctn-kix_mpt29qbg7bgj-6 1; }
+
+.lst-kix_wz76y2sa0lmz-5 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_zd9u906ju9t7-4 > li::before { content: "‚óã  "; }
+
+ul.lst-kix_59ogqsmyydi-8 { list-style-type: none; }
+
+ul.lst-kix_59ogqsmyydi-7 { list-style-type: none; }
+
+.lst-kix_zd9u906ju9t7-5 > li::before { content: "‚ñ†  "; }
+
+ul.lst-kix_59ogqsmyydi-6 { list-style-type: none; }
+
+ul.lst-kix_59ogqsmyydi-5 { list-style-type: none; }
+
+.lst-kix_vaikd1hao26o-6 > li::before { content: "‚óè  "; }
+
+.lst-kix_zd9u906ju9t7-0 > li::before { content: "‚óè  "; }
+
+.lst-kix_zd9u906ju9t7-1 > li::before { content: "‚óã  "; }
+
+ol.lst-kix_8s3wmfndyq3j-2.start { counter-reset: lst-ctn-kix_8s3wmfndyq3j-2 0; }
+
+.lst-kix_l88f8k7y7guf-0 > li::before { content: "‚óè  "; }
+
+.lst-kix_l88f8k7y7guf-1 > li::before { content: "‚óã  "; }
+
+.lst-kix_8skgho3xvr12-7 > li::before { content: "‚óã  "; }
+
+ul.lst-kix_tvrci6gog1l0-0 { list-style-type: none; }
+
+ul.lst-kix_tvrci6gog1l0-1 { list-style-type: none; }
+
+ul.lst-kix_tvrci6gog1l0-2 { list-style-type: none; }
+
+ul.lst-kix_tvrci6gog1l0-7 { list-style-type: none; }
+
+.lst-kix_n98v3whgwf51-4 > li { counter-increment: lst-ctn-kix_n98v3whgwf51-4 1; }
+
+ol.lst-kix_n98v3whgwf51-6.start { counter-reset: lst-ctn-kix_n98v3whgwf51-6 0; }
+
+ul.lst-kix_tvrci6gog1l0-8 { list-style-type: none; }
+
+ol.lst-kix_8qfe8zqs5odb-2.start { counter-reset: lst-ctn-kix_8qfe8zqs5odb-2 0; }
+
+.lst-kix_mpt29qbg7bgj-4 > li { counter-increment: lst-ctn-kix_mpt29qbg7bgj-4 1; }
+
+.lst-kix_59ogqsmyydi-7 > li::before { content: "‚óã  "; }
+
+ul.lst-kix_tvrci6gog1l0-3 { list-style-type: none; }
+
+ul.lst-kix_tvrci6gog1l0-4 { list-style-type: none; }
+
+ul.lst-kix_tvrci6gog1l0-5 { list-style-type: none; }
+
+.lst-kix_wu5z7qwlxwxq-7 > li { counter-increment: lst-ctn-kix_wu5z7qwlxwxq-7 1; }
+
+ul.lst-kix_tvrci6gog1l0-6 { list-style-type: none; }
+
+.lst-kix_t6aravrggiye-5 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_gn3prfho60y2-1 > li { counter-increment: lst-ctn-kix_gn3prfho60y2-1 1; }
+
+.lst-kix_dkvanlvywnxr-6 > li::before { content: "‚óè  "; }
+
+ul.lst-kix_wgsob8uviu3h-5 { list-style-type: none; }
+
+ul.lst-kix_wgsob8uviu3h-6 { list-style-type: none; }
+
+ul.lst-kix_wgsob8uviu3h-7 { list-style-type: none; }
+
+ul.lst-kix_wgsob8uviu3h-8 { list-style-type: none; }
+
+ul.lst-kix_wgsob8uviu3h-1 { list-style-type: none; }
+
+ul.lst-kix_wgsob8uviu3h-2 { list-style-type: none; }
+
+ul.lst-kix_wgsob8uviu3h-3 { list-style-type: none; }
+
+.lst-kix_8skgho3xvr12-3 > li::before { content: "‚óè  "; }
+
+ul.lst-kix_wgsob8uviu3h-4 { list-style-type: none; }
+
+ul.lst-kix_wgsob8uviu3h-0 { list-style-type: none; }
+
+.lst-kix_dkvanlvywnxr-2 > li::before { content: "‚ñ†  "; }
+
+ol.lst-kix_lz5djk5njui-5.start { counter-reset: lst-ctn-kix_lz5djk5njui-5 0; }
+
+.lst-kix_wgsob8uviu3h-1 > li::before { content: "‚óã  "; }
+
+.lst-kix_jli6i3k4dw8k-8 > li::before { content: "‚ñ†  "; }
+
+ol.lst-kix_wu5z7qwlxwxq-0 { list-style-type: none; }
+
+ol.lst-kix_wu5z7qwlxwxq-2 { list-style-type: none; }
+
+ol.lst-kix_wu5z7qwlxwxq-1 { list-style-type: none; }
+
+ol.lst-kix_wu5z7qwlxwxq-4 { list-style-type: none; }
+
+ol.lst-kix_wu5z7qwlxwxq-3 { list-style-type: none; }
+
+ol.lst-kix_wu5z7qwlxwxq-6 { list-style-type: none; }
+
+ol.lst-kix_wu5z7qwlxwxq-5 { list-style-type: none; }
+
+ol.lst-kix_wu5z7qwlxwxq-8 { list-style-type: none; }
+
+ol.lst-kix_wu5z7qwlxwxq-7 { list-style-type: none; }
+
+.lst-kix_59ogqsmyydi-3 > li::before { content: "‚óè  "; }
+
+ol.lst-kix_mpt29qbg7bgj-7.start { counter-reset: lst-ctn-kix_mpt29qbg7bgj-7 0; }
+
+ol.lst-kix_lz5djk5njui-6.start { counter-reset: lst-ctn-kix_lz5djk5njui-6 0; }
+
+.lst-kix_vemv4a4h7o5z-0 > li::before { content: "‚óè  "; }
+
+.lst-kix_mpt29qbg7bgj-2 > li::before { content: "" counter(lst-ctn-kix_mpt29qbg7bgj-2, lower-roman) ". "; }
+
+.lst-kix_4mon4ugkxrhc-2 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_wgsob8uviu3h-5 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_jli6i3k4dw8k-4 > li::before { content: "‚óã  "; }
+
+ul.lst-kix_wqj6g085h72p-7 { list-style-type: none; }
+
+ul.lst-kix_wqj6g085h72p-6 { list-style-type: none; }
+
+ul.lst-kix_wqj6g085h72p-5 { list-style-type: none; }
+
+.lst-kix_xx2rc2yyy1jx-5 > li::before { content: "‚ñ†  "; }
+
+ul.lst-kix_wqj6g085h72p-4 { list-style-type: none; }
+
+ul.lst-kix_wqj6g085h72p-3 { list-style-type: none; }
+
+ul.lst-kix_wqj6g085h72p-2 { list-style-type: none; }
+
+ul.lst-kix_wqj6g085h72p-1 { list-style-type: none; }
+
+ul.lst-kix_wqj6g085h72p-0 { list-style-type: none; }
+
+.lst-kix_ldrb949ds4he-4 > li { counter-increment: lst-ctn-kix_ldrb949ds4he-4 1; }
+
+.lst-kix_a1j8b9wkut3k-4 > li::before { content: "‚óã  "; }
+
+.lst-kix_jli6i3k4dw8k-0 > li::before { content: "‚óè  "; }
+
+ul.lst-kix_4mon4ugkxrhc-3 { list-style-type: none; }
+
+.lst-kix_mpt29qbg7bgj-6 > li::before { content: "" counter(lst-ctn-kix_mpt29qbg7bgj-6) ". "; }
+
+ul.lst-kix_4mon4ugkxrhc-4 { list-style-type: none; }
+
+ul.lst-kix_4mon4ugkxrhc-5 { list-style-type: none; }
+
+ul.lst-kix_4mon4ugkxrhc-6 { list-style-type: none; }
+
+ul.lst-kix_4mon4ugkxrhc-0 { list-style-type: none; }
+
+ul.lst-kix_4mon4ugkxrhc-1 { list-style-type: none; }
+
+.lst-kix_2x5yab5l3p6d-4 > li { counter-increment: lst-ctn-kix_2x5yab5l3p6d-4 1; }
+
+ul.lst-kix_4mon4ugkxrhc-2 { list-style-type: none; }
+
+.lst-kix_t6aravrggiye-1 > li::before { content: "‚óã  "; }
+
+ul.lst-kix_4mon4ugkxrhc-7 { list-style-type: none; }
+
+ul.lst-kix_4mon4ugkxrhc-8 { list-style-type: none; }
+
+.lst-kix_a1j8b9wkut3k-0 > li::before { content: "‚óè  "; }
+
+.lst-kix_2vztxh6468c6-6 > li { counter-increment: lst-ctn-kix_2vztxh6468c6-6 1; }
+
+ul.lst-kix_jli6i3k4dw8k-0 { list-style-type: none; }
+
+.lst-kix_wu5z7qwlxwxq-1 > li { counter-increment: lst-ctn-kix_wu5z7qwlxwxq-1 1; }
+
+ul.lst-kix_jli6i3k4dw8k-7 { list-style-type: none; }
+
+ul.lst-kix_jli6i3k4dw8k-8 { list-style-type: none; }
+
+ol.lst-kix_mpt29qbg7bgj-5.start { counter-reset: lst-ctn-kix_mpt29qbg7bgj-5 0; }
+
+ul.lst-kix_jli6i3k4dw8k-5 { list-style-type: none; }
+
+ul.lst-kix_jli6i3k4dw8k-6 { list-style-type: none; }
+
+ul.lst-kix_jli6i3k4dw8k-3 { list-style-type: none; }
+
+ul.lst-kix_jli6i3k4dw8k-4 { list-style-type: none; }
+
+ul.lst-kix_jli6i3k4dw8k-1 { list-style-type: none; }
+
+.lst-kix_949h6snf82w7-5 > li::before { content: "‚ñ†  "; }
+
+ul.lst-kix_jli6i3k4dw8k-2 { list-style-type: none; }
+
+.lst-kix_ldrb949ds4he-2 > li { counter-increment: lst-ctn-kix_ldrb949ds4he-2 1; }
+
+.lst-kix_949h6snf82w7-8 > li::before { content: "‚ñ†  "; }
+
+ol.lst-kix_ldrb949ds4he-1.start { counter-reset: lst-ctn-kix_ldrb949ds4he-1 0; }
+
+ol.lst-kix_8qfe8zqs5odb-6.start { counter-reset: lst-ctn-kix_8qfe8zqs5odb-6 0; }
+
+.lst-kix_949h6snf82w7-3 > li::before { content: "‚óè  "; }
+
+.lst-kix_949h6snf82w7-0 > li::before { content: "‚óè  "; }
+
+.lst-kix_949h6snf82w7-2 > li::before { content: "‚ñ†  "; }
+
+ol.lst-kix_gn3prfho60y2-5.start { counter-reset: lst-ctn-kix_gn3prfho60y2-5 0; }
+
+ul.lst-kix_l88f8k7y7guf-1 { list-style-type: none; }
+
+ul.lst-kix_wz76y2sa0lmz-7 { list-style-type: none; }
+
+ul.lst-kix_l88f8k7y7guf-2 { list-style-type: none; }
+
+ul.lst-kix_wz76y2sa0lmz-8 { list-style-type: none; }
+
+.lst-kix_s3mftxpq032p-5 > li::before { content: "‚ñ†  "; }
+
+ul.lst-kix_l88f8k7y7guf-3 { list-style-type: none; }
+
+.lst-kix_vn3gkkpynyow-3 > li::before { content: "‚óè  "; }
+
+ul.lst-kix_l88f8k7y7guf-4 { list-style-type: none; }
+
+ul.lst-kix_l88f8k7y7guf-5 { list-style-type: none; }
+
+ul.lst-kix_l88f8k7y7guf-6 { list-style-type: none; }
+
+.lst-kix_zh3cmfbvenko-0 > li { counter-increment: lst-ctn-kix_zh3cmfbvenko-0 1; }
+
+ul.lst-kix_l88f8k7y7guf-7 { list-style-type: none; }
+
+.lst-kix_vn3gkkpynyow-4 > li::before { content: "‚óã  "; }
+
+ul.lst-kix_l88f8k7y7guf-8 { list-style-type: none; }
+
+.lst-kix_n98v3whgwf51-0 > li::before { content: "" counter(lst-ctn-kix_n98v3whgwf51-0) ". "; }
+
+ul.lst-kix_wz76y2sa0lmz-0 { list-style-type: none; }
+
+.lst-kix_s3mftxpq032p-0 > li::before { content: "‚óè  "; }
+
+.lst-kix_s3mftxpq032p-8 > li::before { content: "‚ñ†  "; }
+
+ul.lst-kix_wz76y2sa0lmz-1 { list-style-type: none; }
+
+.lst-kix_vn3gkkpynyow-1 > li::before { content: "‚óã  "; }
+
+ul.lst-kix_wz76y2sa0lmz-2 { list-style-type: none; }
+
+ol.lst-kix_mpt29qbg7bgj-0.start { counter-reset: lst-ctn-kix_mpt29qbg7bgj-0 0; }
+
+ul.lst-kix_wz76y2sa0lmz-3 { list-style-type: none; }
+
+ul.lst-kix_wz76y2sa0lmz-4 { list-style-type: none; }
+
+.lst-kix_s3mftxpq032p-7 > li::before { content: "‚óã  "; }
+
+ul.lst-kix_wz76y2sa0lmz-5 { list-style-type: none; }
+
+ul.lst-kix_wz76y2sa0lmz-6 { list-style-type: none; }
+
+.lst-kix_n98v3whgwf51-7 > li { counter-increment: lst-ctn-kix_n98v3whgwf51-7 1; }
+
+.lst-kix_zh3cmfbvenko-3 > li::before { content: "" counter(lst-ctn-kix_zh3cmfbvenko-3) ". "; }
+
+ol.lst-kix_mpt29qbg7bgj-7 { list-style-type: none; }
+
+.lst-kix_zh3cmfbvenko-4 > li::before { content: "" counter(lst-ctn-kix_zh3cmfbvenko-4, lower-latin) ". "; }
+
+.lst-kix_n98v3whgwf51-3 > li::before { content: "" counter(lst-ctn-kix_n98v3whgwf51-3) ". "; }
+
+ol.lst-kix_mpt29qbg7bgj-8 { list-style-type: none; }
+
+.lst-kix_n98v3whgwf51-5 > li::before { content: "" counter(lst-ctn-kix_n98v3whgwf51-5, lower-roman) ". "; }
+
+ol.lst-kix_mpt29qbg7bgj-5 { list-style-type: none; }
+
+ol.lst-kix_mpt29qbg7bgj-6 { list-style-type: none; }
+
+.lst-kix_2x5yab5l3p6d-8 > li { counter-increment: lst-ctn-kix_2x5yab5l3p6d-8 1; }
+
+ol.lst-kix_mpt29qbg7bgj-3 { list-style-type: none; }
+
+.lst-kix_gn3prfho60y2-4 > li { counter-increment: lst-ctn-kix_gn3prfho60y2-4 1; }
+
+ol.lst-kix_mpt29qbg7bgj-4 { list-style-type: none; }
+
+ol.lst-kix_mpt29qbg7bgj-1 { list-style-type: none; }
+
+ol.lst-kix_mpt29qbg7bgj-2 { list-style-type: none; }
+
+ol.lst-kix_mpt29qbg7bgj-0 { list-style-type: none; }
+
+.lst-kix_zh3cmfbvenko-1 > li::before { content: "" counter(lst-ctn-kix_zh3cmfbvenko-1, lower-latin) ". "; }
+
+.lst-kix_n98v3whgwf51-2 > li::before { content: "" counter(lst-ctn-kix_n98v3whgwf51-2, lower-roman) ". "; }
+
+.lst-kix_s3mftxpq032p-2 > li::before { content: "‚ñ†  "; }
+
+ul.lst-kix_l88f8k7y7guf-0 { list-style-type: none; }
+
+.lst-kix_mpt29qbg7bgj-0 > li { counter-increment: lst-ctn-kix_mpt29qbg7bgj-0 1; }
+
+ol.lst-kix_ldrb949ds4he-6.start { counter-reset: lst-ctn-kix_ldrb949ds4he-6 0; }
+
+.lst-kix_n98v3whgwf51-8 > li::before { content: "" counter(lst-ctn-kix_n98v3whgwf51-8, lower-roman) ". "; }
+
+.lst-kix_kjua0d6778ob-0 > li::before { content: "‚óè  "; }
+
+.lst-kix_2vztxh6468c6-2 > li { counter-increment: lst-ctn-kix_2vztxh6468c6-2 1; }
+
+.lst-kix_kjua0d6778ob-3 > li::before { content: "‚óè  "; }
+
+.lst-kix_wu5z7qwlxwxq-5 > li { counter-increment: lst-ctn-kix_wu5z7qwlxwxq-5 1; }
+
+.lst-kix_kjua0d6778ob-8 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_kjua0d6778ob-5 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_wu5z7qwlxwxq-8 > li { counter-increment: lst-ctn-kix_wu5z7qwlxwxq-8 1; }
+
+.lst-kix_vn3gkkpynyow-6 > li::before { content: "‚óè  "; }
+
+.lst-kix_kjua0d6778ob-6 > li::before { content: "‚óè  "; }
+
+ol.lst-kix_2x5yab5l3p6d-5 { list-style-type: none; }
+
+ol.lst-kix_2x5yab5l3p6d-4 { list-style-type: none; }
+
+ol.lst-kix_2x5yab5l3p6d-3 { list-style-type: none; }
+
+ol.lst-kix_2x5yab5l3p6d-2 { list-style-type: none; }
+
+ol.lst-kix_2x5yab5l3p6d-8 { list-style-type: none; }
+
+.lst-kix_lz5djk5njui-6 > li::before { content: "" counter(lst-ctn-kix_lz5djk5njui-6) ". "; }
+
+ol.lst-kix_2x5yab5l3p6d-7 { list-style-type: none; }
+
+ol.lst-kix_2x5yab5l3p6d-6 { list-style-type: none; }
+
+.lst-kix_59ogqsmyydi-0 > li::before { content: "‚óè  "; }
+
+.lst-kix_59ogqsmyydi-8 > li::before { content: "‚ñ†  "; }
+
+ol.lst-kix_2x5yab5l3p6d-1 { list-style-type: none; }
+
+ol.lst-kix_2x5yab5l3p6d-0 { list-style-type: none; }
+
+ol.lst-kix_2x5yab5l3p6d-7.start { counter-reset: lst-ctn-kix_2x5yab5l3p6d-7 0; }
+
+.lst-kix_gn3prfho60y2-7 > li::before { content: "" counter(lst-ctn-kix_gn3prfho60y2-7, lower-latin) ". "; }
+
+.lst-kix_lz5djk5njui-4 > li::before { content: "" counter(lst-ctn-kix_lz5djk5njui-4, lower-latin) ". "; }
+
+.lst-kix_8qfe8zqs5odb-1 > li::before { content: "" counter(lst-ctn-kix_8qfe8zqs5odb-1, lower-latin) ". "; }
+
+.lst-kix_k3uqiq4u2wcy-1 > li::before { content: "‚óã  "; }
+
+.lst-kix_wgsob8uviu3h-2 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_6etib9jg6yxq-1 > li::before { content: "‚óã  "; }
+
+.lst-kix_zh3cmfbvenko-6 > li::before { content: "" counter(lst-ctn-kix_zh3cmfbvenko-6) ". "; }
+
+.lst-kix_6etib9jg6yxq-3 > li::before { content: "‚óè  "; }
+
+.lst-kix_8qfe8zqs5odb-7 > li::before { content: "" counter(lst-ctn-kix_8qfe8zqs5odb-7, lower-latin) ". "; }
+
+.lst-kix_59ogqsmyydi-2 > li::before { content: "‚ñ†  "; }
+
+ol.lst-kix_2x5yab5l3p6d-5.start { counter-reset: lst-ctn-kix_2x5yab5l3p6d-5 0; }
+
+.lst-kix_wu5z7qwlxwxq-4 > li { counter-increment: lst-ctn-kix_wu5z7qwlxwxq-4 1; }
+
+ol.lst-kix_gn3prfho60y2-0.start { counter-reset: lst-ctn-kix_gn3prfho60y2-0 0; }
+
+.lst-kix_mpt29qbg7bgj-7 > li { counter-increment: lst-ctn-kix_mpt29qbg7bgj-7 1; }
+
+.lst-kix_lz5djk5njui-3 > li { counter-increment: lst-ctn-kix_lz5djk5njui-3 1; }
+
+ol.lst-kix_mpt29qbg7bgj-3.start { counter-reset: lst-ctn-kix_mpt29qbg7bgj-3 0; }
+
+ol.lst-kix_ldrb949ds4he-3.start { counter-reset: lst-ctn-kix_ldrb949ds4he-3 0; }
+
+.lst-kix_wgsob8uviu3h-4 > li::before { content: "‚óã  "; }
+
+.lst-kix_xx2rc2yyy1jx-6 > li::before { content: "‚óè  "; }
+
+.lst-kix_n98v3whgwf51-0 > li { counter-increment: lst-ctn-kix_n98v3whgwf51-0 1; }
+
+ul.lst-kix_q9oi7gkhoc2x-8 { list-style-type: none; }
+
+.lst-kix_8qfe8zqs5odb-1 > li { counter-increment: lst-ctn-kix_8qfe8zqs5odb-1 1; }
+
+.lst-kix_zh3cmfbvenko-4 > li { counter-increment: lst-ctn-kix_zh3cmfbvenko-4 1; }
+
+.lst-kix_2x5yab5l3p6d-1 > li { counter-increment: lst-ctn-kix_2x5yab5l3p6d-1 1; }
+
+.lst-kix_8s3wmfndyq3j-4 > li { counter-increment: lst-ctn-kix_8s3wmfndyq3j-4 1; }
+
+ul.lst-kix_q9oi7gkhoc2x-2 { list-style-type: none; }
+
+ul.lst-kix_q9oi7gkhoc2x-3 { list-style-type: none; }
+
+ol.lst-kix_mpt29qbg7bgj-2.start { counter-reset: lst-ctn-kix_mpt29qbg7bgj-2 0; }
+
+ul.lst-kix_q9oi7gkhoc2x-0 { list-style-type: none; }
+
+ul.lst-kix_q9oi7gkhoc2x-1 { list-style-type: none; }
+
+ul.lst-kix_q9oi7gkhoc2x-6 { list-style-type: none; }
+
+.lst-kix_xx2rc2yyy1jx-8 > li::before { content: "‚ñ†  "; }
+
+ul.lst-kix_q9oi7gkhoc2x-7 { list-style-type: none; }
+
+ul.lst-kix_q9oi7gkhoc2x-4 { list-style-type: none; }
+
+ul.lst-kix_q9oi7gkhoc2x-5 { list-style-type: none; }
+
+ul.lst-kix_rfg6x6uelf2l-8 { list-style-type: none; }
+
+ul.lst-kix_k3uqiq4u2wcy-3 { list-style-type: none; }
+
+ul.lst-kix_k3uqiq4u2wcy-4 { list-style-type: none; }
+
+ul.lst-kix_k3uqiq4u2wcy-1 { list-style-type: none; }
+
+ul.lst-kix_k3uqiq4u2wcy-2 { list-style-type: none; }
+
+ul.lst-kix_rfg6x6uelf2l-4 { list-style-type: none; }
+
+ul.lst-kix_k3uqiq4u2wcy-7 { list-style-type: none; }
+
+ul.lst-kix_rfg6x6uelf2l-5 { list-style-type: none; }
+
+ul.lst-kix_k3uqiq4u2wcy-8 { list-style-type: none; }
+
+ol.lst-kix_2x5yab5l3p6d-3.start { counter-reset: lst-ctn-kix_2x5yab5l3p6d-3 0; }
+
+ul.lst-kix_rfg6x6uelf2l-6 { list-style-type: none; }
+
+ul.lst-kix_k3uqiq4u2wcy-5 { list-style-type: none; }
+
+ul.lst-kix_rfg6x6uelf2l-7 { list-style-type: none; }
+
+ul.lst-kix_k3uqiq4u2wcy-6 { list-style-type: none; }
+
+ul.lst-kix_rfg6x6uelf2l-0 { list-style-type: none; }
+
+.lst-kix_rfg6x6uelf2l-4 > li::before { content: "‚óã  "; }
+
+ul.lst-kix_rfg6x6uelf2l-1 { list-style-type: none; }
+
+ol.lst-kix_gn3prfho60y2-2.start { counter-reset: lst-ctn-kix_gn3prfho60y2-2 0; }
+
+ul.lst-kix_rfg6x6uelf2l-2 { list-style-type: none; }
+
+ul.lst-kix_rfg6x6uelf2l-3 { list-style-type: none; }
+
+ul.lst-kix_k3uqiq4u2wcy-0 { list-style-type: none; }
+
+ul.lst-kix_kjua0d6778ob-3 { list-style-type: none; }
+
+.lst-kix_rfg6x6uelf2l-1 > li::before { content: "‚óã  "; }
+
+ul.lst-kix_kjua0d6778ob-4 { list-style-type: none; }
+
+ul.lst-kix_kjua0d6778ob-1 { list-style-type: none; }
+
+ul.lst-kix_kjua0d6778ob-2 { list-style-type: none; }
+
+.lst-kix_gn3prfho60y2-7 > li { counter-increment: lst-ctn-kix_gn3prfho60y2-7 1; }
+
+.lst-kix_2x5yab5l3p6d-5 > li { counter-increment: lst-ctn-kix_2x5yab5l3p6d-5 1; }
+
+ul.lst-kix_kjua0d6778ob-0 { list-style-type: none; }
+
+.lst-kix_lz5djk5njui-0 > li { counter-increment: lst-ctn-kix_lz5djk5njui-0 1; }
+
+.lst-kix_xx2rc2yyy1jx-0 > li::before { content: "‚óè  "; }
+
+ul.lst-kix_kjua0d6778ob-7 { list-style-type: none; }
+
+ul.lst-kix_kjua0d6778ob-8 { list-style-type: none; }
+
+ul.lst-kix_kjua0d6778ob-5 { list-style-type: none; }
+
+ul.lst-kix_kjua0d6778ob-6 { list-style-type: none; }
+
+.lst-kix_vemv4a4h7o5z-6 > li::before { content: "‚óè  "; }
+
+.lst-kix_wqj6g085h72p-4 > li::before { content: "‚óã  "; }
+
+.lst-kix_qd5s5y9sy50w-2 > li::before { content: "‚ñ†  "; }
+
+ol.lst-kix_gn3prfho60y2-8.start { counter-reset: lst-ctn-kix_gn3prfho60y2-8 0; }
+
+.lst-kix_8yeviqw939w-3 > li::before { content: "‚óè  "; }
+
+.lst-kix_8yeviqw939w-6 > li::before { content: "‚óè  "; }
+
+.lst-kix_qd5s5y9sy50w-7 > li::before { content: "‚óã  "; }
+
+ol.lst-kix_2vztxh6468c6-2 { list-style-type: none; }
+
+ol.lst-kix_2vztxh6468c6-3 { list-style-type: none; }
+
+ol.lst-kix_2vztxh6468c6-4 { list-style-type: none; }
+
+ol.lst-kix_2vztxh6468c6-5 { list-style-type: none; }
+
+.lst-kix_wqj6g085h72p-7 > li::before { content: "‚óã  "; }
+
+ol.lst-kix_2vztxh6468c6-0 { list-style-type: none; }
+
+ol.lst-kix_2vztxh6468c6-1 { list-style-type: none; }
+
+.lst-kix_l88f8k7y7guf-3 > li::before { content: "‚óè  "; }
+
+.lst-kix_zd9u906ju9t7-7 > li::before { content: "‚óã  "; }
+
+.lst-kix_l88f8k7y7guf-6 > li::before { content: "‚óè  "; }
+
+.lst-kix_k3uqiq4u2wcy-6 > li::before { content: "‚óè  "; }
+
+.lst-kix_ldrb949ds4he-2 > li::before { content: "" counter(lst-ctn-kix_ldrb949ds4he-2, lower-roman) ". "; }
+
+.lst-kix_8s3wmfndyq3j-0 > li { counter-increment: lst-ctn-kix_8s3wmfndyq3j-0 1; }
+
+.lst-kix_wz76y2sa0lmz-0 > li::before { content: "‚óè  "; }
+
+.lst-kix_ldrb949ds4he-5 > li { counter-increment: lst-ctn-kix_ldrb949ds4he-5 1; }
+
+ol.lst-kix_2x5yab5l3p6d-4.start { counter-reset: lst-ctn-kix_2x5yab5l3p6d-4 0; }
+
+.lst-kix_wz76y2sa0lmz-3 > li::before { content: "‚óè  "; }
+
+.lst-kix_mpt29qbg7bgj-3 > li { counter-increment: lst-ctn-kix_mpt29qbg7bgj-3 1; }
+
+.lst-kix_vaikd1hao26o-4 > li::before { content: "‚óã  "; }
+
+ol.lst-kix_gn3prfho60y2-3.start { counter-reset: lst-ctn-kix_gn3prfho60y2-3 0; }
+
+.lst-kix_vi3idpoapfuz-7 > li::before { content: "‚óã  "; }
+
+.lst-kix_2vztxh6468c6-5 > li { counter-increment: lst-ctn-kix_2vztxh6468c6-5 1; }
+
+.lst-kix_rfzxygqbn49r-4 > li::before { content: "‚óã  "; }
+
+.lst-kix_vi3idpoapfuz-2 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_vaikd1hao26o-7 > li::before { content: "‚óã  "; }
+
+.lst-kix_rfzxygqbn49r-7 > li::before { content: "‚óã  "; }
+
+.lst-kix_wz76y2sa0lmz-8 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_ldrb949ds4he-7 > li::before { content: "" counter(lst-ctn-kix_ldrb949ds4he-7, lower-latin) ". "; }
+
+.lst-kix_zd9u906ju9t7-2 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_gn3prfho60y2-1 > li::before { content: "" counter(lst-ctn-kix_gn3prfho60y2-1, lower-latin) ". "; }
+
+.lst-kix_59ogqsmyydi-5 > li::before { content: "‚ñ†  "; }
+
+ol.lst-kix_n98v3whgwf51-2 { list-style-type: none; }
+
+ol.lst-kix_8s3wmfndyq3j-0 { list-style-type: none; }
+
+ol.lst-kix_n98v3whgwf51-3 { list-style-type: none; }
+
+ol.lst-kix_8s3wmfndyq3j-1 { list-style-type: none; }
+
+ol.lst-kix_n98v3whgwf51-0 { list-style-type: none; }
+
+ol.lst-kix_n98v3whgwf51-1 { list-style-type: none; }
+
+ol.lst-kix_n98v3whgwf51-6 { list-style-type: none; }
+
+ol.lst-kix_n98v3whgwf51-7 { list-style-type: none; }
+
+ol.lst-kix_n98v3whgwf51-4 { list-style-type: none; }
+
+ol.lst-kix_n98v3whgwf51-5 { list-style-type: none; }
+
+ol.lst-kix_8s3wmfndyq3j-8 { list-style-type: none; }
+
+ol.lst-kix_n98v3whgwf51-8 { list-style-type: none; }
+
+ol.lst-kix_8s3wmfndyq3j-6 { list-style-type: none; }
+
+ol.lst-kix_8s3wmfndyq3j-7 { list-style-type: none; }
+
+ol.lst-kix_8s3wmfndyq3j-4 { list-style-type: none; }
+
+ol.lst-kix_8s3wmfndyq3j-5 { list-style-type: none; }
+
+.lst-kix_gn3prfho60y2-4 > li::before { content: "" counter(lst-ctn-kix_gn3prfho60y2-4, lower-latin) ". "; }
+
+ol.lst-kix_8s3wmfndyq3j-2 { list-style-type: none; }
+
+ol.lst-kix_8s3wmfndyq3j-3 { list-style-type: none; }
+
+.lst-kix_lz5djk5njui-1 > li::before { content: "" counter(lst-ctn-kix_lz5djk5njui-1, lower-latin) ". "; }
+
+.lst-kix_8skgho3xvr12-1 > li::before { content: "‚óã  "; }
+
+.lst-kix_dkvanlvywnxr-4 > li::before { content: "‚óã  "; }
+
+.lst-kix_8qfe8zqs5odb-4 > li::before { content: "" counter(lst-ctn-kix_8qfe8zqs5odb-4, lower-latin) ". "; }
+
+.lst-kix_lz5djk5njui-7 > li { counter-increment: lst-ctn-kix_lz5djk5njui-7 1; }
+
+.lst-kix_8s3wmfndyq3j-4 > li::before { content: "" counter(lst-ctn-kix_8s3wmfndyq3j-4, lower-latin) ". "; }
+
+ol.lst-kix_2x5yab5l3p6d-2.start { counter-reset: lst-ctn-kix_2x5yab5l3p6d-2 0; }
+
+.lst-kix_6etib9jg6yxq-6 > li::before { content: "‚óè  "; }
+
+.lst-kix_q9oi7gkhoc2x-8 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_mg9kidl4pnn5-3 > li::before { content: "‚óè  "; }
+
+ol.lst-kix_gn3prfho60y2-7.start { counter-reset: lst-ctn-kix_gn3prfho60y2-7 0; }
+
+ol.lst-kix_2vztxh6468c6-6 { list-style-type: none; }
+
+ol.lst-kix_2vztxh6468c6-7 { list-style-type: none; }
+
+ol.lst-kix_2vztxh6468c6-8 { list-style-type: none; }
+
+.lst-kix_2vztxh6468c6-1 > li::before { content: "" counter(lst-ctn-kix_2vztxh6468c6-1, lower-latin) ". "; }
+
+ul.lst-kix_6etib9jg6yxq-3 { list-style-type: none; }
+
+ul.lst-kix_6etib9jg6yxq-4 { list-style-type: none; }
+
+ul.lst-kix_6etib9jg6yxq-1 { list-style-type: none; }
+
+ul.lst-kix_s3mftxpq032p-1 { list-style-type: none; }
+
+ul.lst-kix_6etib9jg6yxq-2 { list-style-type: none; }
+
+ul.lst-kix_s3mftxpq032p-0 { list-style-type: none; }
+
+ul.lst-kix_6etib9jg6yxq-0 { list-style-type: none; }
+
+.lst-kix_wgsob8uviu3h-7 > li::before { content: "‚óã  "; }
+
+ol.lst-kix_2x5yab5l3p6d-1.start { counter-reset: lst-ctn-kix_2x5yab5l3p6d-1 0; }
+
+ul.lst-kix_6etib9jg6yxq-7 { list-style-type: none; }
+
+ul.lst-kix_6etib9jg6yxq-8 { list-style-type: none; }
+
+ul.lst-kix_6etib9jg6yxq-5 { list-style-type: none; }
+
+ul.lst-kix_6etib9jg6yxq-6 { list-style-type: none; }
+
+.lst-kix_8s3wmfndyq3j-7 > li { counter-increment: lst-ctn-kix_8s3wmfndyq3j-7 1; }
+
+ol.lst-kix_gn3prfho60y2-6.start { counter-reset: lst-ctn-kix_gn3prfho60y2-6 0; }
+
+.lst-kix_q9oi7gkhoc2x-0 > li::before { content: "‚óè  "; }
+
+.lst-kix_gn3prfho60y2-0 > li { counter-increment: lst-ctn-kix_gn3prfho60y2-0 1; }
+
+.lst-kix_jli6i3k4dw8k-2 > li::before { content: "‚ñ†  "; }
+
+ul.lst-kix_s3mftxpq032p-7 { list-style-type: none; }
+
+ul.lst-kix_s3mftxpq032p-6 { list-style-type: none; }
+
+.lst-kix_xx2rc2yyy1jx-3 > li::before { content: "‚óè  "; }
+
+ul.lst-kix_s3mftxpq032p-8 { list-style-type: none; }
+
+ul.lst-kix_s3mftxpq032p-3 { list-style-type: none; }
+
+.lst-kix_zh3cmfbvenko-7 > li { counter-increment: lst-ctn-kix_zh3cmfbvenko-7 1; }
+
+.lst-kix_mpt29qbg7bgj-4 > li::before { content: "" counter(lst-ctn-kix_mpt29qbg7bgj-4, lower-latin) ". "; }
+
+ul.lst-kix_s3mftxpq032p-2 { list-style-type: none; }
+
+ul.lst-kix_s3mftxpq032p-5 { list-style-type: none; }
+
+ul.lst-kix_s3mftxpq032p-4 { list-style-type: none; }
+
+.lst-kix_t6aravrggiye-3 > li::before { content: "‚óè  "; }
+
+ol.lst-kix_2x5yab5l3p6d-0.start { counter-reset: lst-ctn-kix_2x5yab5l3p6d-0 0; }
+
+.lst-kix_8qfe8zqs5odb-4 > li { counter-increment: lst-ctn-kix_8qfe8zqs5odb-4 1; }
+
+.lst-kix_n98v3whgwf51-3 > li { counter-increment: lst-ctn-kix_n98v3whgwf51-3 1; }
+
+.lst-kix_853sgjkbzya3-7 > li::before { content: "‚óã  "; }
+
+.lst-kix_2x5yab5l3p6d-6 > li { counter-increment: lst-ctn-kix_2x5yab5l3p6d-6 1; }
+
+.lst-kix_zh3cmfbvenko-2 > li { counter-increment: lst-ctn-kix_zh3cmfbvenko-2 1; }
+
+ol.lst-kix_zh3cmfbvenko-6.start { counter-reset: lst-ctn-kix_zh3cmfbvenko-6 0; }
+
+ol.lst-kix_8qfe8zqs5odb-0.start { counter-reset: lst-ctn-kix_8qfe8zqs5odb-0 0; }
+
+.lst-kix_ldrb949ds4he-0 > li { counter-increment: lst-ctn-kix_ldrb949ds4he-0 1; }
+
+.lst-kix_n98v3whgwf51-2 > li { counter-increment: lst-ctn-kix_n98v3whgwf51-2 1; }
+
+ol.lst-kix_lz5djk5njui-3.start { counter-reset: lst-ctn-kix_lz5djk5njui-3 0; }
+
+ol.lst-kix_ldrb949ds4he-2 { list-style-type: none; }
+
+ul.lst-kix_t6aravrggiye-6 { list-style-type: none; }
+
+ol.lst-kix_ldrb949ds4he-1 { list-style-type: none; }
+
+ul.lst-kix_t6aravrggiye-7 { list-style-type: none; }
+
+ol.lst-kix_ldrb949ds4he-0 { list-style-type: none; }
+
+ul.lst-kix_t6aravrggiye-8 { list-style-type: none; }
+
+ol.lst-kix_ldrb949ds4he-6 { list-style-type: none; }
+
+ol.lst-kix_ldrb949ds4he-5 { list-style-type: none; }
+
+ol.lst-kix_ldrb949ds4he-4 { list-style-type: none; }
+
+ol.lst-kix_ldrb949ds4he-3 { list-style-type: none; }
+
+.lst-kix_2vztxh6468c6-8 > li { counter-increment: lst-ctn-kix_2vztxh6468c6-8 1; }
+
+ol.lst-kix_ldrb949ds4he-8 { list-style-type: none; }
+
+ol.lst-kix_ldrb949ds4he-7 { list-style-type: none; }
+
+ul.lst-kix_t6aravrggiye-2 { list-style-type: none; }
+
+ul.lst-kix_t6aravrggiye-3 { list-style-type: none; }
+
+ul.lst-kix_t6aravrggiye-4 { list-style-type: none; }
+
+ul.lst-kix_t6aravrggiye-5 { list-style-type: none; }
+
+.lst-kix_lz5djk5njui-5 > li { counter-increment: lst-ctn-kix_lz5djk5njui-5 1; }
+
+ul.lst-kix_t6aravrggiye-0 { list-style-type: none; }
+
+ul.lst-kix_t6aravrggiye-1 { list-style-type: none; }
+
+.lst-kix_853sgjkbzya3-6 > li::before { content: "‚óè  "; }
+
+.lst-kix_853sgjkbzya3-8 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_853sgjkbzya3-2 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_853sgjkbzya3-4 > li::before { content: "‚óã  "; }
+
+ol.lst-kix_wu5z7qwlxwxq-3.start { counter-reset: lst-ctn-kix_wu5z7qwlxwxq-3 0; }
+
+.lst-kix_ldrb949ds4he-8 > li { counter-increment: lst-ctn-kix_ldrb949ds4he-8 1; }
+
+.lst-kix_853sgjkbzya3-0 > li::before { content: "‚óè  "; }
+
+.lst-kix_8s3wmfndyq3j-3 > li { counter-increment: lst-ctn-kix_8s3wmfndyq3j-3 1; }
+
+ol.lst-kix_gn3prfho60y2-1.start { counter-reset: lst-ctn-kix_gn3prfho60y2-1 0; }
+
+.lst-kix_8s3wmfndyq3j-1 > li::before { content: "" counter(lst-ctn-kix_8s3wmfndyq3j-1, lower-latin) ". "; }
+
+.lst-kix_8s3wmfndyq3j-3 > li::before { content: "" counter(lst-ctn-kix_8s3wmfndyq3j-3) ". "; }
+
+.lst-kix_lz5djk5njui-4 > li { counter-increment: lst-ctn-kix_lz5djk5njui-4 1; }
+
+ol.lst-kix_2vztxh6468c6-7.start { counter-reset: lst-ctn-kix_2vztxh6468c6-7 0; }
+
+.lst-kix_mg9kidl4pnn5-0 > li::before { content: "‚óè  "; }
+
+.lst-kix_8s3wmfndyq3j-5 > li::before { content: "" counter(lst-ctn-kix_8s3wmfndyq3j-5, lower-roman) ". "; }
+
+.lst-kix_8s3wmfndyq3j-7 > li::before { content: "" counter(lst-ctn-kix_8s3wmfndyq3j-7, lower-latin) ". "; }
+
+ul.lst-kix_mg9kidl4pnn5-5 { list-style-type: none; }
+
+ul.lst-kix_mg9kidl4pnn5-6 { list-style-type: none; }
+
+.lst-kix_q9oi7gkhoc2x-7 > li::before { content: "‚óã  "; }
+
+ul.lst-kix_mg9kidl4pnn5-7 { list-style-type: none; }
+
+.lst-kix_mpt29qbg7bgj-2 > li { counter-increment: lst-ctn-kix_mpt29qbg7bgj-2 1; }
+
+ol.lst-kix_mpt29qbg7bgj-4.start { counter-reset: lst-ctn-kix_mpt29qbg7bgj-4 0; }
+
+.lst-kix_mg9kidl4pnn5-2 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_mg9kidl4pnn5-4 > li::before { content: "‚óã  "; }
+
+ul.lst-kix_mg9kidl4pnn5-8 { list-style-type: none; }
+
+ul.lst-kix_mg9kidl4pnn5-0 { list-style-type: none; }
+
+ul.lst-kix_mg9kidl4pnn5-1 { list-style-type: none; }
+
+ul.lst-kix_mg9kidl4pnn5-2 { list-style-type: none; }
+
+ul.lst-kix_mg9kidl4pnn5-3 { list-style-type: none; }
+
+ul.lst-kix_mg9kidl4pnn5-4 { list-style-type: none; }
+
+.lst-kix_mg9kidl4pnn5-6 > li::before { content: "‚óè  "; }
+
+.lst-kix_mg9kidl4pnn5-8 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_2vztxh6468c6-0 > li::before { content: "" counter(lst-ctn-kix_2vztxh6468c6-0) ". "; }
+
+.lst-kix_mpt29qbg7bgj-1 > li { counter-increment: lst-ctn-kix_mpt29qbg7bgj-1 1; }
+
+.lst-kix_q9oi7gkhoc2x-5 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_q9oi7gkhoc2x-3 > li::before { content: "‚óè  "; }
+
+.lst-kix_wu5z7qwlxwxq-3 > li { counter-increment: lst-ctn-kix_wu5z7qwlxwxq-3 1; }
+
+.lst-kix_q9oi7gkhoc2x-1 > li::before { content: "‚óã  "; }
+
+.lst-kix_ldrb949ds4he-7 > li { counter-increment: lst-ctn-kix_ldrb949ds4he-7 1; }
+
+ol.lst-kix_8s3wmfndyq3j-5.start { counter-reset: lst-ctn-kix_8s3wmfndyq3j-5 0; }
+
+.lst-kix_ldrb949ds4he-1 > li { counter-increment: lst-ctn-kix_ldrb949ds4he-1 1; }
+
+.lst-kix_2vztxh6468c6-8 > li::before { content: "" counter(lst-ctn-kix_2vztxh6468c6-8, lower-roman) ". "; }
+
+.lst-kix_2vztxh6468c6-2 > li::before { content: "" counter(lst-ctn-kix_2vztxh6468c6-2, lower-roman) ". "; }
+
+.lst-kix_2vztxh6468c6-6 > li::before { content: "" counter(lst-ctn-kix_2vztxh6468c6-6) ". "; }
+
+ol.lst-kix_ldrb949ds4he-2.start { counter-reset: lst-ctn-kix_ldrb949ds4he-2 0; }
+
+ol.lst-kix_zh3cmfbvenko-1.start { counter-reset: lst-ctn-kix_zh3cmfbvenko-1 0; }
+
+.lst-kix_2vztxh6468c6-4 > li::before { content: "" counter(lst-ctn-kix_2vztxh6468c6-4, lower-latin) ". "; }
+
+ol.lst-kix_8s3wmfndyq3j-1.start { counter-reset: lst-ctn-kix_8s3wmfndyq3j-1 0; }
+
+.lst-kix_rfg6x6uelf2l-7 > li::before { content: "‚óã  "; }
+
+.lst-kix_rfg6x6uelf2l-6 > li::before { content: "‚óè  "; }
+
+.lst-kix_rfg6x6uelf2l-3 > li::before { content: "‚óè  "; }
+
+.lst-kix_zh3cmfbvenko-3 > li { counter-increment: lst-ctn-kix_zh3cmfbvenko-3 1; }
+
+.lst-kix_rfg6x6uelf2l-2 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_qd5s5y9sy50w-1 > li::before { content: "‚óã  "; }
+
+.lst-kix_qd5s5y9sy50w-0 > li::before { content: "‚óè  "; }
+
+ul.lst-kix_dkvanlvywnxr-0 { list-style-type: none; }
+
+.lst-kix_qd5s5y9sy50w-4 > li::before { content: "‚óã  "; }
+
+ul.lst-kix_dkvanlvywnxr-2 { list-style-type: none; }
+
+ul.lst-kix_dkvanlvywnxr-1 { list-style-type: none; }
+
+ol.lst-kix_2x5yab5l3p6d-8.start { counter-reset: lst-ctn-kix_2x5yab5l3p6d-8 0; }
+
+ul.lst-kix_dkvanlvywnxr-4 { list-style-type: none; }
+
+ul.lst-kix_dkvanlvywnxr-3 { list-style-type: none; }
+
+ul.lst-kix_dkvanlvywnxr-6 { list-style-type: none; }
+
+ul.lst-kix_dkvanlvywnxr-5 { list-style-type: none; }
+
+ul.lst-kix_dkvanlvywnxr-8 { list-style-type: none; }
+
+ul.lst-kix_dkvanlvywnxr-7 { list-style-type: none; }
+
+.lst-kix_qd5s5y9sy50w-5 > li::before { content: "‚ñ†  "; }
+
+ul.lst-kix_853sgjkbzya3-6 { list-style-type: none; }
+
+ul.lst-kix_853sgjkbzya3-5 { list-style-type: none; }
+
+ul.lst-kix_853sgjkbzya3-8 { list-style-type: none; }
+
+ul.lst-kix_853sgjkbzya3-7 { list-style-type: none; }
+
+ol.lst-kix_n98v3whgwf51-8.start { counter-reset: lst-ctn-kix_n98v3whgwf51-8 0; }
+
+ul.lst-kix_853sgjkbzya3-2 { list-style-type: none; }
+
+ul.lst-kix_853sgjkbzya3-1 { list-style-type: none; }
+
+ul.lst-kix_853sgjkbzya3-4 { list-style-type: none; }
+
+ul.lst-kix_853sgjkbzya3-3 { list-style-type: none; }
+
+ol.lst-kix_gn3prfho60y2-0 { list-style-type: none; }
+
+ul.lst-kix_853sgjkbzya3-0 { list-style-type: none; }
+
+.lst-kix_qd5s5y9sy50w-8 > li::before { content: "‚ñ†  "; }
+
+ol.lst-kix_gn3prfho60y2-2 { list-style-type: none; }
+
+ol.lst-kix_gn3prfho60y2-1 { list-style-type: none; }
+
+.lst-kix_k3uqiq4u2wcy-7 > li::before { content: "‚óã  "; }
+
+ol.lst-kix_gn3prfho60y2-4 { list-style-type: none; }
+
+ol.lst-kix_gn3prfho60y2-3 { list-style-type: none; }
+
+ol.lst-kix_gn3prfho60y2-6 { list-style-type: none; }
+
+ol.lst-kix_gn3prfho60y2-5 { list-style-type: none; }
+
+ol.lst-kix_gn3prfho60y2-8 { list-style-type: none; }
+
+ol.lst-kix_gn3prfho60y2-7 { list-style-type: none; }
+
+.lst-kix_k3uqiq4u2wcy-4 > li::before { content: "‚óã  "; }
+
+.lst-kix_ldrb949ds4he-1 > li::before { content: "" counter(lst-ctn-kix_ldrb949ds4he-1, lower-latin) ". "; }
+
+ol.lst-kix_wu5z7qwlxwxq-8.start { counter-reset: lst-ctn-kix_wu5z7qwlxwxq-8 0; }
+
+.lst-kix_ldrb949ds4he-0 > li::before { content: "" counter(lst-ctn-kix_ldrb949ds4he-0) ". "; }
+
+.lst-kix_k3uqiq4u2wcy-3 > li::before { content: "‚óè  "; }
+
+.lst-kix_vi3idpoapfuz-8 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_rfzxygqbn49r-1 > li::before { content: "‚óã  "; }
+
+.lst-kix_vi3idpoapfuz-1 > li::before { content: "‚óã  "; }
+
+.lst-kix_ldrb949ds4he-4 > li::before { content: "" counter(lst-ctn-kix_ldrb949ds4he-4, lower-latin) ". "; }
+
+.lst-kix_rfzxygqbn49r-2 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_vi3idpoapfuz-0 > li::before { content: "‚óè  "; }
+
+.lst-kix_wu5z7qwlxwxq-2 > li { counter-increment: lst-ctn-kix_wu5z7qwlxwxq-2 1; }
+
+.lst-kix_k3uqiq4u2wcy-8 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_ldrb949ds4he-5 > li::before { content: "" counter(lst-ctn-kix_ldrb949ds4he-5, lower-roman) ". "; }
+
+.lst-kix_vi3idpoapfuz-5 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_ldrb949ds4he-8 > li::before { content: "" counter(lst-ctn-kix_ldrb949ds4he-8, lower-roman) ". "; }
+
+.lst-kix_rfzxygqbn49r-6 > li::before { content: "‚óè  "; }
+
+.lst-kix_vi3idpoapfuz-4 > li::before { content: "‚óã  "; }
+
+.lst-kix_rfzxygqbn49r-5 > li::before { content: "‚ñ†  "; }
+
+ol.lst-kix_wu5z7qwlxwxq-7.start { counter-reset: lst-ctn-kix_wu5z7qwlxwxq-7 0; }
+
+ol.lst-kix_lz5djk5njui-8.start { counter-reset: lst-ctn-kix_lz5djk5njui-8 0; }
+
+.lst-kix_gn3prfho60y2-2 > li::before { content: "" counter(lst-ctn-kix_gn3prfho60y2-2, lower-roman) ". "; }
+
+.lst-kix_gn3prfho60y2-6 > li::before { content: "" counter(lst-ctn-kix_gn3prfho60y2-6) ". "; }
+
+.lst-kix_853sgjkbzya3-5 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_8qfe8zqs5odb-3 > li { counter-increment: lst-ctn-kix_8qfe8zqs5odb-3 1; }
+
+.lst-kix_lz5djk5njui-7 > li::before { content: "" counter(lst-ctn-kix_lz5djk5njui-7, lower-latin) ". "; }
+
+.lst-kix_6etib9jg6yxq-8 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_lz5djk5njui-6 > li { counter-increment: lst-ctn-kix_lz5djk5njui-6 1; }
+
+.lst-kix_853sgjkbzya3-1 > li::before { content: "‚óã  "; }
+
+ol.lst-kix_n98v3whgwf51-3.start { counter-reset: lst-ctn-kix_n98v3whgwf51-3 0; }
+
+.lst-kix_2vztxh6468c6-1 > li { counter-increment: lst-ctn-kix_2vztxh6468c6-1 1; }
+
+.lst-kix_lz5djk5njui-3 > li::before { content: "" counter(lst-ctn-kix_lz5djk5njui-3) ". "; }
+
+ol.lst-kix_8s3wmfndyq3j-0.start { counter-reset: lst-ctn-kix_8s3wmfndyq3j-0 0; }
+
+.lst-kix_k3uqiq4u2wcy-0 > li::before { content: "‚óè  "; }
+
+.lst-kix_8qfe8zqs5odb-2 > li::before { content: "" counter(lst-ctn-kix_8qfe8zqs5odb-2, lower-roman) ". "; }
+
+.lst-kix_zh3cmfbvenko-7 > li::before { content: "" counter(lst-ctn-kix_zh3cmfbvenko-7, lower-latin) ". "; }
+
+.lst-kix_6etib9jg6yxq-0 > li::before { content: "‚óè  "; }
+
+.lst-kix_8s3wmfndyq3j-6 > li::before { content: "" counter(lst-ctn-kix_8s3wmfndyq3j-6) ". "; }
+
+.lst-kix_zh3cmfbvenko-8 > li { counter-increment: lst-ctn-kix_zh3cmfbvenko-8 1; }
+
+.lst-kix_mg9kidl4pnn5-1 > li::before { content: "‚óã  "; }
+
+.lst-kix_mg9kidl4pnn5-5 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_8qfe8zqs5odb-6 > li::before { content: "" counter(lst-ctn-kix_8qfe8zqs5odb-6) ". "; }
+
+.lst-kix_6etib9jg6yxq-4 > li::before { content: "‚óã  "; }
+
+ol.lst-kix_ldrb949ds4he-7.start { counter-reset: lst-ctn-kix_ldrb949ds4he-7 0; }
+
+.lst-kix_8s3wmfndyq3j-2 > li::before { content: "" counter(lst-ctn-kix_8s3wmfndyq3j-2, lower-roman) ". "; }
+
+.lst-kix_q9oi7gkhoc2x-6 > li::before { content: "‚óè  "; }
+
+ol.lst-kix_8qfe8zqs5odb-4.start { counter-reset: lst-ctn-kix_8qfe8zqs5odb-4 0; }
+
+ol.lst-kix_n98v3whgwf51-5.start { counter-reset: lst-ctn-kix_n98v3whgwf51-5 0; }
+
+.lst-kix_q9oi7gkhoc2x-2 > li::before { content: "‚ñ†  "; }
+
+ol.lst-kix_lz5djk5njui-7.start { counter-reset: lst-ctn-kix_lz5djk5njui-7 0; }
+
+.lst-kix_8s3wmfndyq3j-1 > li { counter-increment: lst-ctn-kix_8s3wmfndyq3j-1 1; }
+
+ol.lst-kix_ldrb949ds4he-8.start { counter-reset: lst-ctn-kix_ldrb949ds4he-8 0; }
+
+ol.lst-kix_mpt29qbg7bgj-8.start { counter-reset: lst-ctn-kix_mpt29qbg7bgj-8 0; }
+
+.lst-kix_2vztxh6468c6-7 > li::before { content: "" counter(lst-ctn-kix_2vztxh6468c6-7, lower-latin) ". "; }
+
+.lst-kix_2vztxh6468c6-3 > li::before { content: "" counter(lst-ctn-kix_2vztxh6468c6-3) ". "; }
+
+.lst-kix_zh3cmfbvenko-1 > li { counter-increment: lst-ctn-kix_zh3cmfbvenko-1 1; }
+
+ol.lst-kix_8qfe8zqs5odb-5.start { counter-reset: lst-ctn-kix_8qfe8zqs5odb-5 0; }
+
+.lst-kix_gn3prfho60y2-6 > li { counter-increment: lst-ctn-kix_gn3prfho60y2-6 1; }
+
+ol.lst-kix_n98v3whgwf51-4.start { counter-reset: lst-ctn-kix_n98v3whgwf51-4 0; }
+
+ul.lst-kix_rfzxygqbn49r-0 { list-style-type: none; }
+
+.lst-kix_949h6snf82w7-6 > li::before { content: "‚óè  "; }
+
+ol.lst-kix_8s3wmfndyq3j-4.start { counter-reset: lst-ctn-kix_8s3wmfndyq3j-4 0; }
+
+.lst-kix_949h6snf82w7-7 > li::before { content: "‚óã  "; }
+
+.lst-kix_gn3prfho60y2-8 > li { counter-increment: lst-ctn-kix_gn3prfho60y2-8 1; }
+
+ul.lst-kix_rfzxygqbn49r-2 { list-style-type: none; }
+
+ul.lst-kix_rfzxygqbn49r-1 { list-style-type: none; }
+
+ul.lst-kix_rfzxygqbn49r-4 { list-style-type: none; }
+
+ul.lst-kix_rfzxygqbn49r-3 { list-style-type: none; }
+
+ul.lst-kix_rfzxygqbn49r-6 { list-style-type: none; }
+
+ul.lst-kix_rfzxygqbn49r-5 { list-style-type: none; }
+
+ul.lst-kix_rfzxygqbn49r-8 { list-style-type: none; }
+
+ul.lst-kix_wqj6g085h72p-8 { list-style-type: none; }
+
+ul.lst-kix_rfzxygqbn49r-7 { list-style-type: none; }
+
+.lst-kix_949h6snf82w7-4 > li::before { content: "‚óã  "; }
+
+.lst-kix_949h6snf82w7-1 > li::before { content: "‚óã  "; }
+
+.lst-kix_8s3wmfndyq3j-8 > li { counter-increment: lst-ctn-kix_8s3wmfndyq3j-8 1; }
+
+ol.lst-kix_2vztxh6468c6-6.start { counter-reset: lst-ctn-kix_2vztxh6468c6-6 0; }
+
+.lst-kix_s3mftxpq032p-4 > li::before { content: "‚óã  "; }
+
+.lst-kix_vn3gkkpynyow-5 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_vn3gkkpynyow-8 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_ldrb949ds4he-6 > li { counter-increment: lst-ctn-kix_ldrb949ds4he-6 1; }
+
+.lst-kix_s3mftxpq032p-6 > li::before { content: "‚óè  "; }
+
+.lst-kix_vn3gkkpynyow-2 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_zh3cmfbvenko-2 > li::before { content: "" counter(lst-ctn-kix_zh3cmfbvenko-2, lower-roman) ". "; }
+
+.lst-kix_8qfe8zqs5odb-5 > li { counter-increment: lst-ctn-kix_8qfe8zqs5odb-5 1; }
+
+ul.lst-kix_949h6snf82w7-8 { list-style-type: none; }
+
+.lst-kix_vn3gkkpynyow-0 > li::before { content: "‚óè  "; }
+
+.lst-kix_n98v3whgwf51-4 > li::before { content: "" counter(lst-ctn-kix_n98v3whgwf51-4, lower-latin) ". "; }
+
+.lst-kix_s3mftxpq032p-1 > li::before { content: "‚óã  "; }
+
+.lst-kix_zh3cmfbvenko-0 > li::before { content: "" counter(lst-ctn-kix_zh3cmfbvenko-0) ". "; }
+
+.lst-kix_n98v3whgwf51-1 > li::before { content: "" counter(lst-ctn-kix_n98v3whgwf51-1, lower-latin) ". "; }
+
+.lst-kix_s3mftxpq032p-3 > li::before { content: "‚óè  "; }
+
+ol.lst-kix_8qfe8zqs5odb-1.start { counter-reset: lst-ctn-kix_8qfe8zqs5odb-1 0; }
+
+.lst-kix_kjua0d6778ob-1 > li::before { content: "‚óã  "; }
+
+ul.lst-kix_8yeviqw939w-1 { list-style-type: none; }
+
+ul.lst-kix_8yeviqw939w-0 { list-style-type: none; }
+
+ul.lst-kix_8yeviqw939w-3 { list-style-type: none; }
+
+ul.lst-kix_8yeviqw939w-2 { list-style-type: none; }
+
+.lst-kix_kjua0d6778ob-4 > li::before { content: "‚óã  "; }
+
+ul.lst-kix_949h6snf82w7-5 { list-style-type: none; }
+
+ul.lst-kix_949h6snf82w7-4 { list-style-type: none; }
+
+ul.lst-kix_949h6snf82w7-7 { list-style-type: none; }
+
+ul.lst-kix_949h6snf82w7-6 { list-style-type: none; }
+
+.lst-kix_n98v3whgwf51-7 > li::before { content: "" counter(lst-ctn-kix_n98v3whgwf51-7, lower-latin) ". "; }
+
+ul.lst-kix_949h6snf82w7-1 { list-style-type: none; }
+
+ul.lst-kix_949h6snf82w7-0 { list-style-type: none; }
+
+ul.lst-kix_949h6snf82w7-3 { list-style-type: none; }
+
+ul.lst-kix_949h6snf82w7-2 { list-style-type: none; }
+
+.lst-kix_n98v3whgwf51-6 > li::before { content: "" counter(lst-ctn-kix_n98v3whgwf51-6) ". "; }
+
+.lst-kix_kjua0d6778ob-2 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_kjua0d6778ob-7 > li::before { content: "‚óã  "; }
+
+ol.lst-kix_lz5djk5njui-4.start { counter-reset: lst-ctn-kix_lz5djk5njui-4 0; }
+
+.lst-kix_vn3gkkpynyow-7 > li::before { content: "‚óã  "; }
+
+.lst-kix_gn3prfho60y2-3 > li::before { content: "" counter(lst-ctn-kix_gn3prfho60y2-3) ". "; }
+
+ol.lst-kix_zh3cmfbvenko-5 { list-style-type: none; }
+
+.lst-kix_lz5djk5njui-8 > li::before { content: "" counter(lst-ctn-kix_lz5djk5njui-8, lower-roman) ". "; }
+
+ol.lst-kix_zh3cmfbvenko-6 { list-style-type: none; }
+
+.lst-kix_59ogqsmyydi-4 > li::before { content: "‚óã  "; }
+
+.lst-kix_59ogqsmyydi-6 > li::before { content: "‚óè  "; }
+
+ol.lst-kix_zh3cmfbvenko-3 { list-style-type: none; }
+
+ol.lst-kix_zh3cmfbvenko-4 { list-style-type: none; }
+
+ol.lst-kix_zh3cmfbvenko-1 { list-style-type: none; }
+
+ol.lst-kix_zh3cmfbvenko-2 { list-style-type: none; }
+
+.lst-kix_2x5yab5l3p6d-0 > li { counter-increment: lst-ctn-kix_2x5yab5l3p6d-0 1; }
+
+ol.lst-kix_zh3cmfbvenko-0 { list-style-type: none; }
+
+.lst-kix_gn3prfho60y2-5 > li::before { content: "" counter(lst-ctn-kix_gn3prfho60y2-5, lower-roman) ". "; }
+
+ol.lst-kix_zh3cmfbvenko-7 { list-style-type: none; }
+
+ol.lst-kix_zh3cmfbvenko-8 { list-style-type: none; }
+
+.lst-kix_lz5djk5njui-0 > li::before { content: "" counter(lst-ctn-kix_lz5djk5njui-0) ". "; }
+
+ul.lst-kix_xx2rc2yyy1jx-8 { list-style-type: none; }
+
+ul.lst-kix_xx2rc2yyy1jx-7 { list-style-type: none; }
+
+ul.lst-kix_xx2rc2yyy1jx-6 { list-style-type: none; }
+
+.lst-kix_lz5djk5njui-2 > li::before { content: "" counter(lst-ctn-kix_lz5djk5njui-2, lower-roman) ". "; }
+
+.lst-kix_8qfe8zqs5odb-2 > li { counter-increment: lst-ctn-kix_8qfe8zqs5odb-2 1; }
+
+ul.lst-kix_xx2rc2yyy1jx-5 { list-style-type: none; }
+
+ul.lst-kix_xx2rc2yyy1jx-4 { list-style-type: none; }
+
+ul.lst-kix_8yeviqw939w-5 { list-style-type: none; }
+
+ul.lst-kix_xx2rc2yyy1jx-3 { list-style-type: none; }
+
+ul.lst-kix_8yeviqw939w-4 { list-style-type: none; }
+
+ul.lst-kix_xx2rc2yyy1jx-2 { list-style-type: none; }
+
+ol.lst-kix_n98v3whgwf51-0.start { counter-reset: lst-ctn-kix_n98v3whgwf51-0 0; }
+
+ul.lst-kix_8yeviqw939w-7 { list-style-type: none; }
+
+ul.lst-kix_xx2rc2yyy1jx-1 { list-style-type: none; }
+
+ul.lst-kix_8yeviqw939w-6 { list-style-type: none; }
+
+ul.lst-kix_xx2rc2yyy1jx-0 { list-style-type: none; }
+
+ul.lst-kix_8yeviqw939w-8 { list-style-type: none; }
+
+.lst-kix_8qfe8zqs5odb-3 > li::before { content: "" counter(lst-ctn-kix_8qfe8zqs5odb-3) ". "; }
+
+ol.lst-kix_8qfe8zqs5odb-8 { list-style-type: none; }
+
+ol.lst-kix_8qfe8zqs5odb-7 { list-style-type: none; }
+
+ol.lst-kix_8qfe8zqs5odb-4 { list-style-type: none; }
+
+.lst-kix_8qfe8zqs5odb-5 > li::before { content: "" counter(lst-ctn-kix_8qfe8zqs5odb-5, lower-roman) ". "; }
+
+ol.lst-kix_lz5djk5njui-2.start { counter-reset: lst-ctn-kix_lz5djk5njui-2 0; }
+
+ol.lst-kix_8qfe8zqs5odb-3 { list-style-type: none; }
+
+ol.lst-kix_8qfe8zqs5odb-6 { list-style-type: none; }
+
+ol.lst-kix_8qfe8zqs5odb-5 { list-style-type: none; }
+
+ol.lst-kix_wu5z7qwlxwxq-6.start { counter-reset: lst-ctn-kix_wu5z7qwlxwxq-6 0; }
+
+ol.lst-kix_zh3cmfbvenko-2.start { counter-reset: lst-ctn-kix_zh3cmfbvenko-2 0; }
+
+.lst-kix_wgsob8uviu3h-0 > li::before { content: "‚óè  "; }
+
+.lst-kix_6etib9jg6yxq-5 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_6etib9jg6yxq-7 > li::before { content: "‚óã  "; }
+
+ol.lst-kix_8qfe8zqs5odb-0 { list-style-type: none; }
+
+ol.lst-kix_8qfe8zqs5odb-2 { list-style-type: none; }
+
+.lst-kix_zh3cmfbvenko-8 > li::before { content: "" counter(lst-ctn-kix_zh3cmfbvenko-8, lower-roman) ". "; }
+
+ol.lst-kix_8qfe8zqs5odb-1 { list-style-type: none; }
+
+.lst-kix_8s3wmfndyq3j-5 > li { counter-increment: lst-ctn-kix_8s3wmfndyq3j-5 1; }
+
+.lst-kix_2vztxh6468c6-3 > li { counter-increment: lst-ctn-kix_2vztxh6468c6-3 1; }
+
+.lst-kix_wgsob8uviu3h-8 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_wgsob8uviu3h-6 > li::before { content: "‚óè  "; }
+
+ol.lst-kix_zh3cmfbvenko-0.start { counter-reset: lst-ctn-kix_zh3cmfbvenko-0 0; }
+
+ol.lst-kix_8s3wmfndyq3j-6.start { counter-reset: lst-ctn-kix_8s3wmfndyq3j-6 0; }
+
+.lst-kix_xx2rc2yyy1jx-4 > li::before { content: "‚óã  "; }
+
+ol.lst-kix_2vztxh6468c6-8.start { counter-reset: lst-ctn-kix_2vztxh6468c6-8 0; }
+
+ol.lst-kix_wu5z7qwlxwxq-4.start { counter-reset: lst-ctn-kix_wu5z7qwlxwxq-4 0; }
+
+.lst-kix_2x5yab5l3p6d-7 > li { counter-increment: lst-ctn-kix_2x5yab5l3p6d-7 1; }
+
+.lst-kix_rfg6x6uelf2l-8 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_ldrb949ds4he-3 > li { counter-increment: lst-ctn-kix_ldrb949ds4he-3 1; }
+
+.lst-kix_rfg6x6uelf2l-5 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_rfg6x6uelf2l-0 > li::before { content: "‚óè  "; }
+
+.lst-kix_wqj6g085h72p-0 > li::before { content: "‚óè  "; }
+
+.lst-kix_2vztxh6468c6-7 > li { counter-increment: lst-ctn-kix_2vztxh6468c6-7 1; }
+
+.lst-kix_wqj6g085h72p-8 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_vaikd1hao26o-0 > li::before { content: "‚óè  "; }
+
+ol.lst-kix_8s3wmfndyq3j-7.start { counter-reset: lst-ctn-kix_8s3wmfndyq3j-7 0; }
+
+.lst-kix_8yeviqw939w-2 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_vemv4a4h7o5z-5 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_wqj6g085h72p-3 > li::before { content: "‚óè  "; }
+
+.lst-kix_mpt29qbg7bgj-8 > li { counter-increment: lst-ctn-kix_mpt29qbg7bgj-8 1; }
+
+ul.lst-kix_vemv4a4h7o5z-4 { list-style-type: none; }
+
+.lst-kix_zh3cmfbvenko-5 > li { counter-increment: lst-ctn-kix_zh3cmfbvenko-5 1; }
+
+ul.lst-kix_vemv4a4h7o5z-3 { list-style-type: none; }
+
+ul.lst-kix_vemv4a4h7o5z-6 { list-style-type: none; }
+
+ol.lst-kix_2vztxh6468c6-3.start { counter-reset: lst-ctn-kix_2vztxh6468c6-3 0; }
+
+ul.lst-kix_vemv4a4h7o5z-5 { list-style-type: none; }
+
+.lst-kix_8yeviqw939w-7 > li::before { content: "‚óã  "; }
+
+.lst-kix_qd5s5y9sy50w-6 > li::before { content: "‚óè  "; }
+
+ul.lst-kix_vemv4a4h7o5z-8 { list-style-type: none; }
+
+ul.lst-kix_vemv4a4h7o5z-7 { list-style-type: none; }
+
+.lst-kix_qd5s5y9sy50w-3 > li::before { content: "‚óè  "; }
+
+ol.lst-kix_wu5z7qwlxwxq-2.start { counter-reset: lst-ctn-kix_wu5z7qwlxwxq-2 0; }
+
+ul.lst-kix_vemv4a4h7o5z-0 { list-style-type: none; }
+
+ul.lst-kix_vemv4a4h7o5z-2 { list-style-type: none; }
+
+ul.lst-kix_vemv4a4h7o5z-1 { list-style-type: none; }
+
+.lst-kix_2x5yab5l3p6d-3 > li { counter-increment: lst-ctn-kix_2x5yab5l3p6d-3 1; }
+
+.lst-kix_l88f8k7y7guf-2 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_gn3prfho60y2-5 > li { counter-increment: lst-ctn-kix_gn3prfho60y2-5 1; }
+
+.lst-kix_rfzxygqbn49r-8 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_zd9u906ju9t7-6 > li::before { content: "‚óè  "; }
+
+ol.lst-kix_zh3cmfbvenko-3.start { counter-reset: lst-ctn-kix_zh3cmfbvenko-3 0; }
+
+ol.lst-kix_lz5djk5njui-4 { list-style-type: none; }
+
+.lst-kix_ldrb949ds4he-3 > li::before { content: "" counter(lst-ctn-kix_ldrb949ds4he-3) ". "; }
+
+ol.lst-kix_lz5djk5njui-5 { list-style-type: none; }
+
+ol.lst-kix_lz5djk5njui-6 { list-style-type: none; }
+
+ol.lst-kix_lz5djk5njui-7 { list-style-type: none; }
+
+.lst-kix_n98v3whgwf51-8 > li { counter-increment: lst-ctn-kix_n98v3whgwf51-8 1; }
+
+ol.lst-kix_lz5djk5njui-8 { list-style-type: none; }
+
+.lst-kix_k3uqiq4u2wcy-5 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_n98v3whgwf51-1 > li { counter-increment: lst-ctn-kix_n98v3whgwf51-1 1; }
+
+.lst-kix_l88f8k7y7guf-7 > li::before { content: "‚óã  "; }
+
+.lst-kix_8qfe8zqs5odb-6 > li { counter-increment: lst-ctn-kix_8qfe8zqs5odb-6 1; }
+
+.lst-kix_k3uqiq4u2wcy-2 > li::before { content: "‚ñ†  "; }
+
+ul.lst-kix_8skgho3xvr12-0 { list-style-type: none; }
+
+ol.lst-kix_lz5djk5njui-0 { list-style-type: none; }
+
+ol.lst-kix_lz5djk5njui-1 { list-style-type: none; }
+
+ol.lst-kix_lz5djk5njui-2 { list-style-type: none; }
+
+ol.lst-kix_lz5djk5njui-3 { list-style-type: none; }
+
+.lst-kix_wz76y2sa0lmz-4 > li::before { content: "‚óã  "; }
+
+ol.lst-kix_wu5z7qwlxwxq-1.start { counter-reset: lst-ctn-kix_wu5z7qwlxwxq-1 0; }
+
+ol.lst-kix_zh3cmfbvenko-4.start { counter-reset: lst-ctn-kix_zh3cmfbvenko-4 0; }
+
+.lst-kix_vaikd1hao26o-3 > li::before { content: "‚óè  "; }
+
+.lst-kix_rfzxygqbn49r-0 > li::before { content: "‚óè  "; }
+
+.lst-kix_vi3idpoapfuz-6 > li::before { content: "‚óè  "; }
+
+.lst-kix_rfzxygqbn49r-3 > li::before { content: "‚óè  "; }
+
+.lst-kix_vaikd1hao26o-8 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_zd9u906ju9t7-3 > li::before { content: "‚óè  "; }
+
+ul.lst-kix_vi3idpoapfuz-7 { list-style-type: none; }
+
+.lst-kix_ldrb949ds4he-6 > li::before { content: "" counter(lst-ctn-kix_ldrb949ds4he-6) ". "; }
+
+ul.lst-kix_vi3idpoapfuz-8 { list-style-type: none; }
+
+ul.lst-kix_vi3idpoapfuz-3 { list-style-type: none; }
+
+.lst-kix_wz76y2sa0lmz-7 > li::before { content: "‚óã  "; }
+
+.lst-kix_gn3prfho60y2-0 > li::before { content: "" counter(lst-ctn-kix_gn3prfho60y2-0) ". "; }
+
+ul.lst-kix_vi3idpoapfuz-4 { list-style-type: none; }
+
+ul.lst-kix_vi3idpoapfuz-5 { list-style-type: none; }
+
+ul.lst-kix_vi3idpoapfuz-6 { list-style-type: none; }
+
+.lst-kix_vi3idpoapfuz-3 > li::before { content: "‚óè  "; }
+
+.lst-kix_lz5djk5njui-2 > li { counter-increment: lst-ctn-kix_lz5djk5njui-2 1; }
+
+ul.lst-kix_vi3idpoapfuz-0 { list-style-type: none; }
+
+ul.lst-kix_vi3idpoapfuz-1 { list-style-type: none; }
+
+ul.lst-kix_vi3idpoapfuz-2 { list-style-type: none; }
+
+ol.lst-kix_wu5z7qwlxwxq-0.start { counter-reset: lst-ctn-kix_wu5z7qwlxwxq-0 0; }
+
+.lst-kix_59ogqsmyydi-1 > li::before { content: "‚óã  "; }
+
+ol.lst-kix_zh3cmfbvenko-8.start { counter-reset: lst-ctn-kix_zh3cmfbvenko-8 0; }
+
+.lst-kix_2vztxh6468c6-0 > li { counter-increment: lst-ctn-kix_2vztxh6468c6-0 1; }
+
+.lst-kix_853sgjkbzya3-3 > li::before { content: "‚óè  "; }
+
+.lst-kix_dkvanlvywnxr-8 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_t6aravrggiye-7 > li::before { content: "‚óã  "; }
+
+ol.lst-kix_2vztxh6468c6-1.start { counter-reset: lst-ctn-kix_2vztxh6468c6-1 0; }
+
+ol.lst-kix_zh3cmfbvenko-5.start { counter-reset: lst-ctn-kix_zh3cmfbvenko-5 0; }
+
+.lst-kix_lz5djk5njui-5 > li::before { content: "" counter(lst-ctn-kix_lz5djk5njui-5, lower-roman) ". "; }
+
+.lst-kix_8skgho3xvr12-5 > li::before { content: "‚ñ†  "; }
+
+ol.lst-kix_2vztxh6468c6-4.start { counter-reset: lst-ctn-kix_2vztxh6468c6-4 0; }
+
+.lst-kix_wu5z7qwlxwxq-6 > li { counter-increment: lst-ctn-kix_wu5z7qwlxwxq-6 1; }
+
+.lst-kix_gn3prfho60y2-8 > li::before { content: "" counter(lst-ctn-kix_gn3prfho60y2-8, lower-roman) ". "; }
+
+ul.lst-kix_8skgho3xvr12-8 { list-style-type: none; }
+
+ul.lst-kix_8skgho3xvr12-7 { list-style-type: none; }
+
+.lst-kix_dkvanlvywnxr-0 > li::before { content: "‚óè  "; }
+
+ul.lst-kix_8skgho3xvr12-6 { list-style-type: none; }
+
+ul.lst-kix_8skgho3xvr12-5 { list-style-type: none; }
+
+ul.lst-kix_8skgho3xvr12-4 { list-style-type: none; }
+
+ul.lst-kix_8skgho3xvr12-3 { list-style-type: none; }
+
+ul.lst-kix_8skgho3xvr12-2 { list-style-type: none; }
+
+ul.lst-kix_8skgho3xvr12-1 { list-style-type: none; }
+
+.lst-kix_8s3wmfndyq3j-0 > li::before { content: "" counter(lst-ctn-kix_8s3wmfndyq3j-0) ". "; }
+
+.lst-kix_6etib9jg6yxq-2 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_zh3cmfbvenko-5 > li::before { content: "" counter(lst-ctn-kix_zh3cmfbvenko-5, lower-roman) ". "; }
+
+.lst-kix_8s3wmfndyq3j-2 > li { counter-increment: lst-ctn-kix_8s3wmfndyq3j-2 1; }
+
+.lst-kix_8qfe8zqs5odb-8 > li::before { content: "" counter(lst-ctn-kix_8qfe8zqs5odb-8, lower-roman) ". "; }
+
+.lst-kix_mpt29qbg7bgj-5 > li { counter-increment: lst-ctn-kix_mpt29qbg7bgj-5 1; }
+
+.lst-kix_mg9kidl4pnn5-7 > li::before { content: "‚óã  "; }
+
+ol.lst-kix_zh3cmfbvenko-7.start { counter-reset: lst-ctn-kix_zh3cmfbvenko-7 0; }
+
+.lst-kix_q9oi7gkhoc2x-4 > li::before { content: "‚óã  "; }
+
+.lst-kix_vemv4a4h7o5z-2 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_wgsob8uviu3h-3 > li::before { content: "‚óè  "; }
+
+.lst-kix_jli6i3k4dw8k-6 > li::before { content: "‚óè  "; }
+
+.lst-kix_8s3wmfndyq3j-8 > li::before { content: "" counter(lst-ctn-kix_8s3wmfndyq3j-8, lower-roman) ". "; }
+
+.lst-kix_8qfe8zqs5odb-0 > li::before { content: "" counter(lst-ctn-kix_8qfe8zqs5odb-0) ". "; }
+
+.lst-kix_4mon4ugkxrhc-0 > li::before { content: "‚óè  "; }
+
+.lst-kix_mpt29qbg7bgj-0 > li::before { content: "" counter(lst-ctn-kix_mpt29qbg7bgj-0) ". "; }
+
+.lst-kix_xx2rc2yyy1jx-7 > li::before { content: "‚óã  "; }
+
+.lst-kix_a1j8b9wkut3k-2 > li::before { content: "‚ñ†  "; }
+
+ol.lst-kix_2vztxh6468c6-2.start { counter-reset: lst-ctn-kix_2vztxh6468c6-2 0; }
+
+.lst-kix_mpt29qbg7bgj-8 > li::before { content: "" counter(lst-ctn-kix_mpt29qbg7bgj-8, lower-roman) ". "; }
+
+.lst-kix_2vztxh6468c6-5 > li::before { content: "" counter(lst-ctn-kix_2vztxh6468c6-5, lower-roman) ". "; }
+------MultipartBoundary--N03U5v5XEKmojsinQFxdL16eIf5GxsBNcgR8URQpvW----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://ssl.gstatic.com/docs/common/mobileweb_sprite1.png
+
+âPNG
+
+   
+IHDR   $   ú   ô	Ä  	UIDAThﬁÌ[[lW˛ŒôŸõ«nù∏
+8Ik'm\ö*V“EBj∏51/T¢5⁄P•†ZÂ&—áJ·	Ñ*cÇh§ ‹ÄÄBõÚ¬Â)I+îìÊ!†ÜÑXNH”brÒ:ÔÆwÊ¸<ÏmvvŒÃ9«ìx#ˆè6û=s˚Êˇ˛ˇ?Á|{h2ca;á~ˇΩ˛i7◊GBTèDTŸvI‘∂ßzﬁ∆ˆèl ≈
+hÛÔæΩ„b~f Ñ“Ωâ*[•∂
+>*>ªzÀÖ€¶ªzû,Ë‚≤Û3?0u˙≤∂%K/›ö=±sl,  ùÔòXGf—™‰⁄éÍÇí"™ÅÒ“‘∑UË
+≤L*›üπ∑˝∞(9 œ?/ò(áëœ•…db}€ΩÌáTAq(‹¿& c~≥ˆ@ÚûÃ∏
+(Æ$LáDÉ«“©Ù:ª?slxt4eHY˝'L];ˇòöé©tzMÁ∆Œ…Ìc;•û≤#)Û˘ ä>b¿¡s«{SSËL.#Ç®T<∆@†ÂóS˘c Ó“$ÿTæ±À	«ù)Ï9∞ú0*e,•öOk¥=DíDAiÔ?ñ3àÃb‡é'_	 OåP&˜^`–W⁄XÈ?—nÅf0«[◊ò> 2†P_"cÅÂ‡T¸dà"©$ç`i6' WjîE≈íF≠	V*4Æ†  ‡ì+7I˚æ œÓ;Ûf˝ı,òRlﬂxL´◊ﬂwÊMœ√ï=f13 dt˝b‚ ˆûzΩ˙˝ÖM€ ﬂ©Í°Ì}b˚Í-ç`"@õ2 ò)Êq.w©JQ¡- ﬁôΩX=Ór1/c‘aOÚÃ⁄≠xfÌ÷ÜˆÔ
+x Ωû≠”èUÏÁßbÔƒ¡Í˛ë˚ü¯˙¯Xıº'Wo¡}ÜfÂºÎPÂb3≈\=~ *«»kULi_±·˛mÓﬂ÷pÏIe≤Îå=$∑Ωß‡•S5 ~∏È ÄØçˇ¨zÃÁ≤ÃS0McHˆ§^ ‡°Ï‹Ï≈Z&:9≠	¡¸([ª
+√k∑5¥ü|¯«°±8Ø¥ó=ÀÆ˛I¯$;©=®e?:˛áHoFy≈,ÀF≤XQcC°7 aóñNÉÑ#≤Q3ZøGH:ß£˙È9—%m@	ÿ√äƒ¶™è8ÙU#¡™˚'èı⁄ñ’KÇòN‡{≈´∫vF¬±01ÛïﬂúFÀÆá∆¯¸ØÛ˝”≥N,PcºT^ñ>z_€˛°Õ<^çÒKªØÓ»òGcÙ§5yõÍ€â›g_∏”IˆÚ¯4∆È9f¶1·÷≈|ÈY˚⁄â±±…¯4FFÛ”ó,N≠¢ï›GuA)jåUX°õ…d˝º˜ˆ√:†î´∫õí∫8A$lkΩµÍ∂C™†¢5∆ 0‘'Ö µSˆ [Ÿ=Æä+	Ñ√ç≠âtbù≥bŸ±——ìfcPg%„˚˛ØwÊì°-ì\c≠Ìô‹‚)m¡*
+¿Ò÷È"Œ˝Á<⁄”%i™∫è1 l˘ïB Dc™1ñµ(‚ﬁÀ/¬ôÛ3s˘íbÊŒôâ∆4 „ C≤£≈kW!úBUÙde•6Vçú‚—√ $∑£ò∑ ú9•iæ˙òö¬ÎMX\Ÿ©\∆AN1BaÛ©>ï˛ŸO¶ \'¥;2£LVá(\ïÂv" ]LeÉŸ6 \ƒñeø| ’ÍıávÛ∆$`ñ©`’hØΩ≈’ Ç)Ã…ÙgÆºzÑEN©2’Ëˇå≥ÏW_V£¨nh∑ß∆ÿh˚ép…~
+`·µ*û,#ºrDvÏN¬jU,b√ÀO-a‚—-≠ß∂S‘T?õ¢®ÎÃ+®%ˆ ﬂòqw2Øíù˘Ú”—Yˆ»ãñ<÷#jëe\˝(‹É±Pˆ€ TºbC§1ˇBD¨P1§<É&Õ è∏x»‹ûeUßGçcH∂‡¿@cd≈¬p√Õ	c#ê†‘g≈93çÒ#;≥Ω∞ù^K@Kct$„ ¨π‘ƒÎﬂø••1∂¨©Ì Æi0yOÜÔZh@œî§ëÖÚÃ„ÂÌÁ}Ä..M.Ä'|†f|ÏFÇÙ≈å‘s
+∆ÍÒMìÃÇ–¥ÌfìkÅi0[o&0ø—È›T`–l` Û–B'ö
+LÀZfb°S‰¸·¡~ß8›«XÌ'7"œÍlÔ∂[S÷⁄“ﬁœ7èƒªˆ„ÍÅı;ò3µßA6 ˇØ˘ıÌÇÄƒ˚øx·ﬂgWÙ‹5¯l|k?X·øFk?H <≥tÈÌwº{‚@».⁄Ä`Qg§∫bÈdÁ™ÅMÏ®.(]#·£%@ëËm©TˇÜ¨√ì† ˘¡DÆpÙy*±æÎÉâC™û‚—AA`¢÷À¯ËKÅÅ˚Ÿ∏äß∏ê0A+>Ö”p^[:πnŸ∆‚±?éßb†,
+LÌ/c@·“±¿+&3ã÷lﬁíû<0∂]Í)·úÇøKhd œˇ¶ŒVWmI7+Ìc\,øª˚≤˛⁄)êê¨ï<d[.“Ù6f≥NÆ¥•≤‚ì	ÁXc‡!˘M£⁄‚ O$∫ÄπÀÄ[`uûa/+{ÉBºVæ)+ıKÈBÒAôJBÜ˝<Eˇµ€néPJ>„Á›ÆP*?Z/0«p≈πu|‘æ¨≤UB)Å]˘+ê˝Kç∆î 8s„Úƒ›?¨åZó+r`áÔ¨ªûe√M≤‘∂2ÍCû©ˇy∏|MfS&9—ΩÊÃÑüi/¨%⁄ù≥fPó'ΩªÏÏ
+«’Ω¬µÚ[=ﬂå»¬X≤Ã?VÚ/$ 5Íc•,àb1ùØáÍﬁHàÍB¬ˆSÃÔó»øˆEΩª°ÿ+5@Ô{
+Ë˛4(‰≤:Ω¶]©<«€A…vùìî„RcƒX˛àº˙,T‰"˙ª*5?˛9P˚µæLFÿÃ!≠…Äe,˚Xˆçx#ÚÃ—ıf(∂i
+íuæ—uÈ:dô˙@No¶.6≤°Ûµ¿yv-u5à‰BÌáS‡√
+7§± ∫E√˜À≤Ø¶zÙÇ≈≥ˆÉÑ+l`‚ñœ‡tK+lYÀ$ˆùÚßi¿Ä"Ä{ö	Ãßö	Ã#-00è6ßô¿ò~Êe7ây)jÅjÅ˙ u›:W[  o∑Fb-kV˚ù`ac%`    IENDÆB`Ç
+------MultipartBoundary--N03U5v5XEKmojsinQFxdL16eIf5GxsBNcgR8URQpvW----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://fonts.googleapis.com/css?family=Google+Sans
+
+@charset "utf-8";
+
+@font-face { font-family: "Google Sans"; font-style: normal; font-weight: 400; src: url("https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJl1pynAESo4b4o.woff2") format("woff2"); unicode-range: U+308, U+530-58F, U+2010, U+2024, U+25CC, U+FB13-FB17; }
+
+@font-face { font-family: "Google Sans"; font-style: normal; font-weight: 400; src: url("https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJl3pynAESo4b4o.woff2") format("woff2"); unicode-range: U+951-952, U+964-965, U+980-9FE, U+1CD0, U+1CD2, U+1CD5-1CD6, U+1CD8, U+1CE1, U+1CEA, U+1CED, U+1CF2, U+1CF5-1CF7, U+200C-200D, U+20B9, U+25CC, U+A8F1; }
+
+@font-face { font-family: "Google Sans"; font-style: normal; font-weight: 400; src: url("https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJlKpynAESo4b4o.woff2") format("woff2"); unicode-range: U+2C7, U+2D8-2D9, U+2DB, U+307, U+1400-167F, U+18B0-18F5, U+25CC, U+11AB0-11ABF; }
+
+@font-face { font-family: "Google Sans"; font-style: normal; font-weight: 400; src: local("Google Sans Regular"), local("GoogleSans-Regular"), url("https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJlopynAESo4b4o.woff2") format("woff2"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: "Google Sans"; font-style: normal; font-weight: 400; src: local("Google Sans Regular"), local("GoogleSans-Regular"), url("https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJlhpynAESo4b4o.woff2") format("woff2"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: "Google Sans"; font-style: normal; font-weight: 400; src: url("https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJlkpynAESo4b4o.woff2") format("woff2"); unicode-range: U+900-97F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+20F0, U+25CC, U+A830-A839, U+A8E0-A8FF, U+11B00-11B09; }
+
+@font-face { font-family: "Google Sans"; font-style: normal; font-weight: 400; src: url("https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJl0pynAESo4b4o.woff2") format("woff2"); unicode-range: U+30E, U+1200-1399, U+2D80-2DDE, U+AB01-AB2E, U+1E7E0-1E7E6, U+1E7E8-1E7EB, U+1E7ED-1E7EE, U+1E7F0-1E7FE; }
+
+@font-face { font-family: "Google Sans"; font-style: normal; font-weight: 400; src: url("https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJl6pynAESo4b4o.woff2") format("woff2"); unicode-range: U+589, U+10A0-10FF, U+1C90-1CBA, U+1CBD-1CBF, U+205A, U+2D00-2D2F, U+2E31; }
+
+@font-face { font-family: "Google Sans"; font-style: normal; font-weight: 400; src: local("Google Sans Regular"), local("GoogleSans-Regular"), url("https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJlppynAESo4b4o.woff2") format("woff2"); unicode-range: U+1F00-1FFF; }
+
+@font-face { font-family: "Google Sans"; font-style: normal; font-weight: 400; src: local("Google Sans Regular"), local("GoogleSans-Regular"), url("https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJlmpynAESo4b4o.woff2") format("woff2"); unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: "Google Sans"; font-style: normal; font-weight: 400; src: url("https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJl-pynAESo4b4o.woff2") format("woff2"); unicode-range: U+951-952, U+964-965, U+A80-AFF, U+200C-200D, U+20B9, U+25CC, U+A830-A839; }
+
+@font-face { font-family: "Google Sans"; font-style: normal; font-weight: 400; src: url("https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJlGpynAESo4b4o.woff2") format("woff2"); unicode-range: U+951-952, U+964-965, U+A01-A76, U+200C-200D, U+20B9, U+25CC, U+262C, U+A830-A839; }
+
+@font-face { font-family: "Google Sans"; font-style: normal; font-weight: 400; src: local("Google Sans Regular"), local("GoogleSans-Regular"), url("https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJlnpynAESo4b4o.woff2") format("woff2"); unicode-range: U+307-308, U+590-5FF, U+200C-2010, U+20AA, U+25CC, U+FB1D-FB4F; }
+
+@font-face { font-family: "Google Sans"; font-style: normal; font-weight: 400; src: url("https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJlupynAESo4b4o.woff2") format("woff2"); unicode-range: U+1780-17FF, U+19E0-19FF, U+200C-200D, U+25CC; }
+
+@font-face { font-family: "Google Sans"; font-style: normal; font-weight: 400; src: url("https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJlspynAESo4b4o.woff2") format("woff2"); unicode-range: U+E81-EDF, U+200C-200D, U+25CC; }
+
+@font-face { font-family: "Google Sans"; font-style: normal; font-weight: 400; src: url("https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJl9pynAESo4b4o.woff2") format("woff2"); unicode-range: U+307, U+323, U+951-952, U+964-965, U+D00-D7F, U+1CDA, U+1CF2, U+200C-200D, U+20B9, U+25CC, U+A830-A832; }
+
+@font-face { font-family: "Google Sans"; font-style: normal; font-weight: 400; src: url("https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJl8pynAESo4b4o.woff2") format("woff2"); unicode-range: U+951-952, U+964-965, U+B01-B77, U+1CDA, U+1CF2, U+200C-200D, U+20B9, U+25CC; }
+
+@font-face { font-family: "Google Sans"; font-style: normal; font-weight: 400; src: url("https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJl4pynAESo4b4o.woff2") format("woff2"); unicode-range: U+964-965, U+D81-DF4, U+1CF2, U+200C-200D, U+25CC, U+111E1-111F4; }
+
+@font-face { font-family: "Google Sans"; font-style: normal; font-weight: 400; src: url("https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJkLpynAESo4b4o.woff2") format("woff2"); unicode-range: U+1-C, U+E-1F, U+7F-9F, U+20DD-20E0, U+20E2-20E4, U+2150-218F, U+2190, U+2192, U+2194-2199, U+21AF, U+21E6-21F0, U+21F3, U+2218-2219, U+2299, U+22C4-22C6, U+2300-243F, U+2440-244A, U+2460-24FF, U+25A0-27BF, U+2800-28FF, U+2921-2922, U+2981, U+29BF, U+29EB, U+2B00-2BFF, U+4DC0-4DFF, U+FFF9-FFFB, U+10140-1018E, U+10190-1019C, U+101A0, U+101D0-101FD, U+102E0-102FB, U+10E60-10E7E, U+1D2C0-1D2D3, U+1D2E0-1D37F, U+1F000-1F0FF, U+1F100-1F1AD, U+1F1E6-1F1FF, U+1F30D-1F30F, U+1F315, U+1F31C, U+1F31E, U+1F320-1F32C, U+1F336, U+1F378, U+1F37D, U+1F382, U+1F393-1F39F, U+1F3A7-1F3A8, U+1F3AC-1F3AF, U+1F3C2, U+1F3C4-1F3C6, U+1F3CA-1F3CE, U+1F3D4-1F3E0, U+1F3ED, U+1F3F1-1F3F3, U+1F3F5-1F3F7, U+1F408, U+1F415, U+1F41F, U+1F426, U+1F43F, U+1F441-1F442, U+1F444, U+1F446-1F449, U+1F44C-1F44E, U+1F453, U+1F46A, U+1F47D, U+1F4A3, U+1F4B0, U+1F4B3, U+1F4B9, U+1F4BB, U+1F4BF, U+1F4C8-1F4CB, U+1F4D6, U+1F4DA, U+1F4DF, U+1F4E3-1F4E6, U+1F4EA-1F4ED, U+1F4F7, U+1F4F9-1F4FB, U+1F4FD-1F4FE, U+1F503, U+1F507-1F50B, U+1F50D, U+1F512-1F513, U+1F53E-1F54A, U+1F54F-1F5FA, U+1F610, U+1F650-1F67F, U+1F687, U+1F68D, U+1F691, U+1F694, U+1F698, U+1F6AD, U+1F6B2, U+1F6B9-1F6BA, U+1F6BC, U+1F6C6-1F6CF, U+1F6D3-1F6D7, U+1F6E0-1F6EA, U+1F6F0-1F6F3, U+1F6F7-1F6FC, U+1F700-1F7FF, U+1F800-1F80B, U+1F810-1F847, U+1F850-1F859, U+1F860-1F887, U+1F890-1F8AD, U+1F8B0-1F8BB, U+1F8C0-1F8C1, U+1F900-1F90B, U+1F93B, U+1F946, U+1F984, U+1F996, U+1F9E9, U+1FA00-1FA6F, U+1FA70-1FA7C, U+1FA80-1FA89, U+1FA8F-1FAC6, U+1FACE-1FADC, U+1FADF-1FAE9, U+1FAF0-1FAF8, U+1FB00-1FBFF; }
+
+@font-face { font-family: "Google Sans"; font-style: normal; font-weight: 400; src: url("https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJlzpynAESo4b4o.woff2") format("woff2"); unicode-range: U+964-965, U+B82-BFA, U+200C-200D, U+20B9, U+25CC; }
+
+@font-face { font-family: "Google Sans"; font-style: normal; font-weight: 400; src: url("https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJl5pynAESo4b4o.woff2") format("woff2"); unicode-range: U+951-952, U+964-965, U+C00-C7F, U+1CDA, U+1CF2, U+200C-200D, U+25CC; }
+
+@font-face { font-family: "Google Sans"; font-style: normal; font-weight: 400; src: url("https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJlxpynAESo4b4o.woff2") format("woff2"); unicode-range: U+2D7, U+303, U+331, U+E01-E5B, U+200C-200D, U+25CC; }
+
+@font-face { font-family: "Google Sans"; font-style: normal; font-weight: 400; src: local("Google Sans Regular"), local("GoogleSans-Regular"), url("https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJlqpynAESo4b4o.woff2") format("woff2"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: "Google Sans"; font-style: normal; font-weight: 400; src: local("Google Sans Regular"), local("GoogleSans-Regular"), url("https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJlrpynAESo4b4o.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: "Google Sans"; font-style: normal; font-weight: 400; src: local("Google Sans Regular"), local("GoogleSans-Regular"), url("https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJllpynAESo4.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+------MultipartBoundary--N03U5v5XEKmojsinQFxdL16eIf5GxsBNcgR8URQpvW----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-82a73fd2-78ae-4a04-8efb-c40a082d75e0@mhtml.blink
+
+@charset "utf-8";
+
+@import url("https://fonts.googleapis.com/css?family=Google+Sans");
+
+.docs-ml-promotion { z-index: 1002; }
+
+.docs-ml-header { z-index: 1; }
+
+.docs-ml-icon { direction: ltr; display: inline-block; text-align: left; overflow: hidden; position: relative; vertical-align: middle; }
+
+.docs-ml-img::before { content: url("https://ssl.gstatic.com/docs/common/mobileweb_sprite1.png"); }
+
+.docs-ml-img-container { height: 156px; position: absolute; width: 36px; }
+
+.docs-ml-docs-logo-icon { left: 0px; top: -36px; }
+
+.docs-ml-sheets-logo-icon { left: 0px; top: 0px; }
+
+.docs-ml-slides-logo-icon { left: 0px; top: -96px; }
+
+.docs-ml-arrow-back-icon { left: 0px; top: -132px; }
+
+.docs-ml-edit-icon { left: 0px; top: -72px; }
+
+@media screen and (-webkit-min-device-pixel-ratio: 2) {
+  .docs-ml-img { content: url("https://ssl.gstatic.com/docs/common/mobileweb_sprite1.png"); }
+  .docs-ml-img-container { height: 156px; position: absolute; width: 36px; }
+  .docs-ml-docs-logo-icon { left: 0px; top: -36px; }
+  .docs-ml-sheets-logo-icon { left: 0px; top: 0px; }
+  .docs-ml-slides-logo-icon { left: 0px; top: -96px; }
+  .docs-ml-arrow-back-icon { left: 0px; top: -132px; }
+  .docs-ml-edit-icon { left: 0px; top: -72px; }
+}
+
+.docs-ml-header { background: rgb(249, 249, 249); border-bottom: 1px solid rgb(203, 203, 203); box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 1px; box-sizing: border-box; font-family: "Google Sans", Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif; padding: 4px 0px; position: fixed; left: 0px; top: 0px; width: 100%; }
+
+.docs-ml-header-icon { height: 24px; opacity: 0.6; width: 24px; }
+
+.docs-ml-header-icon-container { padding: 12px; }
+
+.docs-ml-header-item { display: inline-block; vertical-align: middle; }
+
+.docs-ml-header-drive-link { padding-left: 4px; }
+
+body[dir="rtl"] .docs-ml-arrow-back-dir { transform: scaleX(-1); }
+
+.docs-ml-header-document-title { box-sizing: border-box; line-height: 24px; padding: 0px 12px; width: calc(100% - 104px); }
+
+.docs-ml-header-document-title-text { font-size: 20px; font-weight: 500; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+.docs-ml-header-edit-button { float: right; padding-right: 4px; }
+
+.docs-ml-promotion { background: rgb(255, 255, 255); bottom: 0px; box-shadow: rgba(0, 0, 0, 0.4) 0px 4px 12px; font-family: Arial, Helvetica, sans-serif; left: 0px; position: fixed; width: 100%; }
+
+.docs-ml-promotion-off-screen { transform: translateY(100%); }
+
+.docs-ml-promotion-shown { transform: translateY(0px); transition: transform 333ms cubic-bezier(0.4, 0, 0.2, 1); }
+
+.docs-ml-promotion-dismissed { transform: translateY(100%); box-shadow: none; }
+
+.docs-ml-promotion-no-horizontal-scroll { overflow-x: hidden; }
+
+.docs-ml-promotion-header { display: table; padding: 24px 24px 0px; }
+
+.docs-ml-promotion-app-icon-container { display: table-cell; }
+
+.docs-ml-promotion-app-icon { height: 36px; width: 36px; }
+
+@media (min-width: 600px) {
+  .docs-ml-promotion-app-icon { transform: scale(1.33); }
+}
+
+.docs-ml-promotion-text { display: table-cell; padding-left: 20px; vertical-align: top; }
+
+.docs-ml-promotion-text-heading { color: rgba(0, 0, 0, 0.87); font-size: 16px; font-weight: 700; padding-bottom: 7px; }
+
+.docs-ml-promotion-text-body { color: rgba(0, 0, 0, 0.87); font-size: 14px; }
+
+.docs-ml-promotion-action-row { float: right; margin-top: 6px; padding: 8px 24px; }
+
+.docs-ml-promotion-action-row-desktop { margin-top: 6px; }
+
+.docs-ml-promotion-action-container { display: inline-block; height: 48px; margin: 6px 4px; vertical-align: middle; }
+
+.docs-ml-promotion-action-button { display: inline-block; font-size: 14px; font-weight: 500; padding: 9px 12px; vertical-align: middle; }
+
+.docs-ml-promotion-action-button-wrapper:focus { outline-color: rgb(214, 214, 214); }
+
+.docs-ml-promotion-action-button.docs-ml-promotion-yes-button { background-color: rgb(66, 133, 244); border-radius: 4px; color: rgb(249, 249, 249); border: 1px solid transparent; }
+
+.docs-ml-promotion-action-button.docs-ml-promotion-yes-button:active { background-color: rgb(25, 103, 210); }
+
+.docs-ml-promotion-action-button.docs-ml-promotion-no-button { background-color: rgb(249, 249, 249); color: rgb(95, 99, 104); border-radius: 4px; border: 1px solid rgb(218, 220, 224); }
+
+.docs-ml-promotion-action-button.docs-ml-promotion-no-button:active { background-color: rgb(245, 245, 245); }
+
+.docs-ml-promotion.desktop { text-align: center; }
+
+@media (orientation: portrait) {
+  .docs-ml-promotion.desktop { padding-top: 56px; padding-bottom: 80px; }
+}
+
+@media (orientation: landscape) {
+  .docs-ml-promotion.desktop { padding-top: 36px; padding-bottom: 56px; }
+}
+
+.docs-ml-promotion-heading-desktop { font-family: "Google Sans"; font-size: 18px; font-weight: 700; color: rgb(32, 33, 36); padding-top: 18px; padding-bottom: 10px; line-height: 1.5; max-width: 360px; margin: 0px auto; }
+
+@media (orientation: landscape) {
+  .docs-ml-promotion-heading-desktop { padding-top: 0px; max-width: none; }
+}
+
+.docs-ml-promotion-text-body-desktop { font-size: 14px; line-height: 1.5; color: rgb(95, 99, 104); padding-bottom: 10px; }
+
+.docs-icon.docs-ml-promotion-desktop-icon { height: 40px; width: 40px; transform: scale(2.5); transform-origin: center top; }
+
+.docs-icon-ml-promotion-icon-container-desktop { height: 100px; width: 100px; margin-left: auto; margin-right: auto; }
+
+@media (orientation: landscape) {
+  .docs-icon-ml-promotion-icon-container-desktop { display: inline-block; vertical-align: top; }
+  .docs-ml-promotion-description-desktop { display: inline-block; vertical-align: top; text-align: left; padding-left: 39px; max-width: 645px; }
+}
+
+@media (orientation: landscape) {
+  .docs-ml-promotion-action-row-desktop { margin-left: -8px; }
+}
+
+.docs-ml-promotion-action-row-desktop .docs-ml-promotion-action-container { margin: 6px 8px; font-family: "Google Sans"; }
+
+.docs-ml-promotion-action-row-desktop .docs-ml-promotion-action-button-wrapper:focus { outline: none; }
+
+.docs-ml-promotion-action-button.docs-ml-promotion-yes-button.docs-ml-promotion-app-themed { border-radius: 4px; box-shadow: none; box-sizing: border-box; font-family: "Google Sans", Roboto, RobotoDraft, Helvetica, Arial, sans-serif; font-weight: 500; font-size: 14px; height: 36px; letter-spacing: 0.25px; line-height: 16px; padding: 9px 24px 11px; background: rgb(26, 115, 232); color: rgb(255, 255, 255); border: 1px solid transparent !important; }
+
+.docs-ml-promotion-action-button.docs-ml-promotion-no-button.docs-ml-promotion-app-themed { border-radius: 4px; box-shadow: none; box-sizing: border-box; font-family: "Google Sans", Roboto, RobotoDraft, Helvetica, Arial, sans-serif; font-weight: 500; font-size: 14px; height: 36px; letter-spacing: 0.25px; line-height: 16px; padding: 9px 24px 11px; background: rgb(255, 255, 255); color: rgb(26, 115, 232); border: 1px solid rgb(218, 220, 224) !important; }
+
+.docs-ml-promotion-action-button-wrapper:focus .docs-ml-promotion-action-button.docs-ml-promotion-yes-button.docs-ml-promotion-app-themed { color: rgb(255, 255, 255); background: rgb(80, 148, 237); box-shadow: rgba(66, 133, 244, 0.15) 0px 1px 3px 1px; }
+
+.docs-ml-promotion-action-button-wrapper:focus .docs-ml-promotion-action-button.docs-ml-promotion-no-button.docs-ml-promotion-app-themed { border-radius: 4px; box-shadow: none; box-sizing: border-box; font-family: "Google Sans", Roboto, RobotoDraft, Helvetica, Arial, sans-serif; font-weight: 500; font-size: 14px; height: 36px; letter-spacing: 0.25px; line-height: 16px; padding: 9px 24px 11px; background: rgb(231, 242, 255); border: 1px solid rgb(193, 216, 251) !important; }
+
+.docsshared-no-download .docsshared-no-select-when-no-download, .docsshared-no-select { -webkit-user-drag: none; user-select: none; }
+
+.docsshared-disable-image-copy canvas, .docsshared-disable-image-copy image, .docsshared-disable-image-copy img { pointer-events: none; }
+------MultipartBoundary--N03U5v5XEKmojsinQFxdL16eIf5GxsBNcgR8URQpvW----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-e0006671-44ed-4c82-92c1-bfe94522d11a@mhtml.blink
+
+@charset "utf-8";
+
+html { overflow: auto; }
+
+body { margin: 0px; overflow: hidden; overflow-wrap: break-word; }
+
+.app-container { height: 100%; margin-top: 57px; overflow: auto; }
+
+.doc { padding: 20px 12px 0px; position: relative; }
+
+.doc .doc-content { margin: auto; padding: 24px 0px !important; max-width: 770px !important; }
+------MultipartBoundary--N03U5v5XEKmojsinQFxdL16eIf5GxsBNcgR8URQpvW------
